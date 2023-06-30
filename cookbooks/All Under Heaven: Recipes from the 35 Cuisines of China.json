@@ -1,0 +1,5678 @@
+[
+    {
+        "Recipe": "Napa Cabbage With Pressed Bean Curd (Li\u00e1ngb\u00e0n D\u00f2ug\u0101n B\u00e1ic\u00e0ix\u012bn)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Napa Cabbage",
+            "Pressed Bean Curd",
+            "Toasted Sesame Seeds",
+            "Toasted Sesame Oil",
+            "Rice Vinegar",
+            "Jalape\u00f1o Chiles",
+            "Cilantro",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Soybean Pods (Sh\u0101o M\u00e1od\u00f2u)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Frozen Soybeans",
+            "Sichuan Peppercorns",
+            "Five-Spice Powder"
+        ]
+    },
+    {
+        "Recipe": "Spinach And Peanuts (B\u014dc\u00e0i Hu\u0101sh\u0113ng)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Spinach",
+            "Garlic",
+            "Sea Salt",
+            "Chinese Black Vinegar",
+            "Dark Brown Sugar",
+            "Dark Soy Sauce",
+            "Toasted Sesame Oil",
+            "Vegetable Oil",
+            "Raw Peanuts"
+        ]
+    },
+    {
+        "Recipe": "Manchurian Chicken Salad (J\u012bs\u012b L\u0101p\u012b)",
+        "Categories": [
+            "Salads",
+            "Dressings & Marinades",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Mung Bean Sheets",
+            "Toasted Sesame Oil",
+            "Cooked Chicken Meat",
+            "Persian Cucumbers",
+            "Fresh Ginger",
+            "Green Onions",
+            "Toasted Sesame Seeds",
+            "Chinese Black Vinegar",
+            "Soy Sauce",
+            "Mustard"
+        ]
+    },
+    {
+        "Recipe": "Consort'S Chicken Wings (Gu\u012bf\u0113i J\u012bch\u00ec)",
+        "Categories": [
+            "Sauces For Poultry",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Wings",
+            "Soy Sauce",
+            "Peanut Oil",
+            "Leeks",
+            "Fresh Ginger",
+            "Shaoxing Rice Wine",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Cold Garlic Chicken (Sh\u0101nd\u014dng Sh\u0101oj\u012b)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Thighs",
+            "Soy Sauce",
+            "Sichuan Peppercorns",
+            "Fresh Ginger",
+            "Green Onions",
+            "Persian Cucumbers",
+            "Chinese Black Vinegar",
+            "Garlic",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Braised Beef Shank, Tendons, And Variety Meats (Lu N\u00eduji\u00e0n, N\u00eduj\u012bn, N\u00eduz\u00e1)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Beef Shanks",
+            "Beef Tendons",
+            "Honeycomb Tripe",
+            "Fresh Ginger",
+            "Green Onions",
+            "Soy Sauce",
+            "Whole Star Anise",
+            "Cinnamon Sticks",
+            "Fennel Seeds",
+            "Sichuan Peppercorns",
+            "Rock Sugar",
+            "Dried Thai Chiles"
+        ]
+    },
+    {
+        "Recipe": "Mock Shark Fin Soup (Hu\u00e1ngm\u00e8n S\u00f9y\u00fachi)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Scallops",
+            "Chinese Ham",
+            "Chicken Backs",
+            "Whole Duck",
+            "Fresh Ginger",
+            "Green Onions",
+            "Chicken Breasts",
+            "Shaoxing Rice Wine",
+            "Frozen Vegetarian Shark Fin"
+        ]
+    },
+    {
+        "Recipe": "Clear Beef Soup With Chinese Herbs And Radishes (Q\u012bngd\u00f9n N\u00edur\u00f2u Lu\u00f3bo T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Beef Shanks",
+            "Beef Tendons",
+            "Honeycomb Tripe",
+            "Leeks",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Bay Leaves",
+            "Dried Licorice Root",
+            "Whole Star Anise",
+            "Cinnamon Sticks",
+            "Sichuan Peppercorns",
+            "Black Peppercorns",
+            "Chinese Radishes"
+        ]
+    },
+    {
+        "Recipe": "Russian Soup (Lu\u00f3s\u00f2ng T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese",
+            "Russian"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Oxtail",
+            "Onions",
+            "Garlic",
+            "Bay Leaves",
+            "Rice Wine",
+            "Soy Sauce",
+            "Tomato Ketchup",
+            "Potatoes",
+            "Carrots",
+            "Canned Tomatoes"
+        ]
+    },
+    {
+        "Recipe": "Lamb Hotpot (Shu\u00e0n Y\u00e1ngr\u00f2u)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lamb",
+            "Pickled Cabbage",
+            "Spinach",
+            "Bean Curd",
+            "Cellophane Noodles",
+            "Fermented Bean Curd",
+            "Fish Sauce",
+            "Toasted Sesame Seeds",
+            "Toasted Sesame Oil",
+            "Chile Oil",
+            "Soy Sauce",
+            "Chinese Black Vinegar",
+            "Green Onions",
+            "Cilantro",
+            "Vegetable Oil",
+            "Raw Peanuts",
+            "Rice Wine",
+            "Chicken Stock"
+        ]
+    },
+    {
+        "Recipe": "Sweet And Sour Carp (T\u00e1ngc\u00f9 Liy\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Carp",
+            "Peanut Oil",
+            "Green Onions",
+            "Fresh Ginger",
+            "Chinese Black Vinegar",
+            "Rock Sugar",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Abalone Shreds With Mung Bean Sprouts (B\u00e0os\u012b Y\u00edny\u00e1)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Abalone",
+            "Mung Bean Sprouts",
+            "Chicken Stock",
+            "Shaoxing Rice Wine",
+            "Peanut Oil",
+            "Green Onions",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Braised Prawns (G\u0101nsh\u0101o D\u00e0m\u00edngxi\u0101)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Shrimp",
+            "Fresh Ginger",
+            "Shaoxing Rice Wine",
+            "Peanut Oil",
+            "Green Onions",
+            "Fermented Rice",
+            "Tomato Ketchup"
+        ]
+    },
+    {
+        "Recipe": "Beijing Style Smoked Chicken (J\u012bngsh\u00ec X\u016bnj\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Chicken",
+            "Shaoxing Rice Wine",
+            "Sichuan Peppercorns",
+            "Rice",
+            "Tea",
+            "Aromatics Of Your Choice"
+        ]
+    },
+    {
+        "Recipe": "Jade And Pearls (L\u012bu J\u012bp\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Stock",
+            "Fresh Ginger",
+            "Green Onions",
+            "Shaoxing Rice Wine",
+            "Baby Peas",
+            "Chicken Breasts",
+            "Egg Whites",
+            "Chicken Fat"
+        ]
+    },
+    {
+        "Recipe": "Ginseng Steamed Chicken (Qingzh\u0113ng R\u00e9nsh\u0113n J\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Ginseng Root",
+            "Dried Bamboo Shoots",
+            "Chinese Dried Black Mushrooms",
+            "Whole Chicken",
+            "Rice Wine",
+            "Green Onions",
+            "Fresh Ginger",
+            "Chinese Winter-Cured Pork"
+        ]
+    },
+    {
+        "Recipe": "Yellow Braised Duck (Hu\u00e1ngm\u00e8n Y\u0101ku\u00e0i)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Duck Legs",
+            "Green Onions",
+            "Fresh Ginger",
+            "Sichuan Peppercorns",
+            "Shaoxing Rice Wine",
+            "Snow Peas",
+            "Carrots",
+            "Winter Bamboo Shoots",
+            "Wood Ear Fungus",
+            "Peanut Oil",
+            "Soy Sauce",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Rock Sugar Pork Shank (B\u012bngt\u00e1ng Zhouzi)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Shanks",
+            "Honey",
+            "Peanut Oil",
+            "Fennel Seeds",
+            "Cinnamon Sticks",
+            "Sichuan Peppercorns",
+            "Fresh Ginger",
+            "Green Onions",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Golden Pouches (H\u00e9b\u0101o Lij\u00ed)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Shoulder",
+            "Green Onions",
+            "Fresh Ginger",
+            "Sweet Bean Paste",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Peanut Oil",
+            "Cilantro",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Tasimi (T\u0101s\u00ecmi)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lamb Loin",
+            "Ginger Juice",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Oil",
+            "Sweet Bean Paste"
+        ]
+    },
+    {
+        "Recipe": "Napa Cabbage With Dried Shrimp (K\u0101iy\u00e1ng B\u00e1ic\u00e0i)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Shrimp",
+            "Napa Cabbage",
+            "Peanut Oil",
+            "Green Onions",
+            "Fresh Ginger",
+            "Soy Sauce",
+            "Rice Vinegar"
+        ]
+    },
+    {
+        "Recipe": "Stir Fried Garlic Stems (Q\u012bngchao S\u00f9ant\u00e1i)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Garlic Stems",
+            "Peanut Oil",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Three Fruits Of The Earth (Dis\u0101nxi\u0101n)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chinese Eggplants",
+            "Potatoes",
+            "Peanut Oil",
+            "Red Peppers",
+            "Garlic",
+            "Fresh Ginger",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Stir Fried Potato And Green Chili Threads (Qingji\u0101o Chao Tud\u00f2usi)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Potatoes",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Jalape\u00f1o Chiles"
+        ]
+    },
+    {
+        "Recipe": "Wood Ears Braised With Green Onions (C\u014dngsh\u0101o Q\u012bum\u00f9er)",
+        "Categories": [
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Leeks",
+            "Wood Ear Fungus",
+            "Peanut Oil",
+            "Rice Wine",
+            "Oyster Sauce",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Panfried Bean Curd (Gu\u014dt\u0101 D\u00f2ufu)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Bean Curd",
+            "Peanut Oil",
+            "Egg Yolks",
+            "Dried Shrimp Roe",
+            "Green Onions",
+            "Fresh Ginger",
+            "Shaoxing Rice Wine",
+            "Romaine Lettuce"
+        ]
+    },
+    {
+        "Recipe": "Zhajiang Noodles (Zh\u00e1ji\u00e0ng Mi\u00e0n)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Wheat Noodles",
+            "Eggplants",
+            "Peanut Oil",
+            "Ground Pork",
+            "Yellow Onions",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Toasted Sesame Oil",
+            "Sweet Bean Paste",
+            "Soy Sauce",
+            "Persian Cucumbers"
+        ]
+    },
+    {
+        "Recipe": "Dalu Noodle Soup (Dalu Mi\u00e0n)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Wood Ear Fungus",
+            "Carrots",
+            "Winter Bamboo Shoots",
+            "Green Onions",
+            "Dried Chinese Black Mushrooms",
+            "Napa Cabbage",
+            "Peanut Oil",
+            "Pork",
+            "Pork Stock",
+            "Soy Sauce",
+            "Chinese Black Vinegar",
+            "Wheat Noodles"
+        ]
+    },
+    {
+        "Recipe": "Steamed And Boiled Jiaozi (Zh\u0113ngjiao, Shuijiao)",
+        "Categories": [
+            "Snacks",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Filling Of Your Choice"
+        ]
+    },
+    {
+        "Recipe": "Shrimp And Pork Jiaozi Filling (Xi\u0101nxi\u0101 Zh\u016br\u00f2u Xi\u00e0n)",
+        "Categories": [
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Shrimp",
+            "Ground Pork",
+            "Fresh Ginger",
+            "Soy Sauce",
+            "Rice Wine",
+            "Napa Cabbage",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Gourd And Egg Jiaozi Filling (M\u00f9xi H\u00f9gu\u0101 Xi\u00e0n)",
+        "Categories": [
+            "Egg Dishes",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Bottle Gourds",
+            "Peanut Oil",
+            "Eggs",
+            "Fresh Ginger",
+            "Soy Sauce",
+            "Rice Wine",
+            "Toasted Sesame Oil",
+            "Chinese Dried Black Mushrooms"
+        ]
+    },
+    {
+        "Recipe": "Ignored By The Dog Filled Buns (Goub\u00f9li B\u0101ozi)",
+        "Categories": [
+            "Snacks",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Ground Pork",
+            "Pork Fat",
+            "Soy Sauce",
+            "Toasted Sesame Oil",
+            "Green Onions",
+            "Fresh Ginger",
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Potstickers (Gu\u014dti\u0113)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Ground Pork",
+            "Mushroom Powder",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Cilantro",
+            "Green Onions",
+            "Fresh Ginger",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Chinese Hamburgers (Xi\u00e0ngbing)",
+        "Categories": [
+            "Sandwiches & Burgers",
+            "Snacks",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Ground Beef Chuck",
+            "Soy Sauce",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Peanut Oil",
+            "Garlic Chives",
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Fried Scallion And Flaky Flatbreads (C\u014dngy\u014dubing, Zhu\u0101bing)",
+        "Categories": [
+            "Fried Doughs",
+            "Snacks",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Peanut Oil",
+            "Lard",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Shaobing",
+        "Categories": [
+            "Pies, Tarts & Pastries",
+            "Breakfast / Brunch",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Active Dry Yeast",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Oil",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Corn Thimbles (W\u014dwot\u00f3u 'Er)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Cornmeal",
+            "Store-Cupboard Ingredients"
+        ]
+    },
+    {
+        "Recipe": "Millet Porridge (Xiaomi Zh\u014du)",
+        "Categories": [
+            "Breakfast / Brunch",
+            "Snacks",
+            "Cooking For 1 Or 2",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Millet"
+        ]
+    },
+    {
+        "Recipe": "Rolling Donkeys (Lu Dagun)",
+        "Categories": [
+            "Candy / Sweets",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Sticky Rice Flour",
+            "Sweet Red Bean Paste",
+            "Toasted Sesame Oil",
+            "Peanuts"
+        ]
+    },
+    {
+        "Recipe": "Laughing Dougnut Holes (K\u0101ikouxi\u00e0o)",
+        "Categories": [
+            "Fried Doughs",
+            "Dessert",
+            "Snacks",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Sesame Seeds",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Toffee Apples (B\u00e1si P\u00edngguo)",
+        "Categories": [
+            "Fried Doughs",
+            "Dessert",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Apples",
+            "Pastry Flour",
+            "Peanut Oil",
+            "Turbinado Sugar",
+            "Lemons",
+            "Toasted Sesame Seeds"
+        ]
+    },
+    {
+        "Recipe": "Soymilk (D\u00f2uji\u0101ng)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Soybeans"
+        ]
+    },
+    {
+        "Recipe": "Chilled Sour Plum Infusion (Gu\u00echu\u0101 Su\u0101nm\u00e9i T\u0101ng)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Sour Plums",
+            "Dried Licorice Root",
+            "Dried Jamaica Flowers",
+            "Rock Sugar",
+            "Osmanthus Syrup",
+            "Dried Chinese Hawthorn Berries"
+        ]
+    },
+    {
+        "Recipe": "Raw Radish Threads With Green Onion Oil (C\u014dngy\u00f3u B\u00e1ilu\u00f3b\u014dsi)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chinese Radishes",
+            "Green Onions",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Vegetarian Dongpo Pork (S\u00f9 D\u014dngp\u014d)",
+        "Categories": [
+            "Stir-Fries",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Winter Melon Gourds",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Shaoxing Rice Wine",
+            "Soy Sauce",
+            "Rock Sugar",
+            "Whole Star Anise",
+            "Cinnamon Sticks"
+        ]
+    },
+    {
+        "Recipe": "Sprouted Fava Beans (C\u014dngk\u00e0o F\u0101y\u00e1d\u00f2u)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Fava Beans",
+            "Green Onions",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Shaoxing Rice Wine",
+            "Fish Sauce"
+        ]
+    },
+    {
+        "Recipe": "Bean Curd With Pine Flower Preserved Eggs (S\u014dnghu\u00e0 P\u00edd\u00e0n D\u00f2ufu)",
+        "Categories": [
+            "Egg Dishes",
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Preserved Eggs",
+            "Bean Curd",
+            "Sichuan Pickled Mustard Root",
+            "Green Onions",
+            "Cilantro",
+            "Rice Vinegar",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Vegetarian Goose (Wubao S\u00f9'\u00c9)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Black Mushrooms",
+            "Yuba Sheets",
+            "Dried Daylily Flowers",
+            "Winter Bamboo Shoots",
+            "Carrots",
+            "Peanut Oil",
+            "Sichuan Pickled Mustard Root",
+            "Soy Sauce",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Drunken Eggs With Molten Centers (T\u00e1ngxin Hu\u0101di\u0101o Zu\u00ecd\u00e0n)",
+        "Categories": [
+            "Egg Dishes",
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Eggs",
+            "Salted Plums",
+            "Fresh Ginger",
+            "White Peppercorns",
+            "Lemons",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Suzhou \"Smoked\" Fish (S\u016bsh\u00ec X\u016bny\u00fa)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Fish",
+            "Green Onions",
+            "Fresh Ginger",
+            "Whole Star Anise",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Peanut Oil",
+            "Five-Spice Powder",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Cold Braised Little Fish With Green Onions (C\u014dngk\u00e0o Xiaoy\u00fa)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Croaker",
+            "Shaoxing Rice Wine",
+            "Soy Sauce",
+            "Chinese Black Vinegar",
+            "Peanut Oil",
+            "Green Onions",
+            "Rock Sugar",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Soy Braised Fish Collar (G\u0101nsh\u0101o Y\u00fax\u00e0ba)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Fish Collars",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Soy Sauce",
+            "Rock Sugar",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Drunken Chicken (Zu\u00ecji)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Breasts",
+            "Shaoxing Rice Wine",
+            "Chicken Stock",
+            "Fresh Ginger",
+            "Rock Sugar",
+            "Wolfberries"
+        ]
+    },
+    {
+        "Recipe": "Crystalline Jellied Pork (Shuijink Y\u00e1or\u00f2u)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Legs",
+            "Shaoxing Rice Wine",
+            "Pink Salt",
+            "Whole Star Anise",
+            "Sichuan Peppercorns",
+            "Fresh Ginger",
+            "Green Onions",
+            "Powdered Gelatin",
+            "Powdered Alum",
+            "Chinese Black Vinegar"
+        ]
+    },
+    {
+        "Recipe": "Lotus Root And Pork Rib Soup (Li\u00e1n Ou P\u00e1igu T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Ribs",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Shaoxing Rice Wine",
+            "Lotus Root",
+            "Cilantro"
+        ]
+    },
+    {
+        "Recipe": "Sister In Law Song'S Fish Chowder (S\u00f2ngsao Y\u00fag\u0113ng)",
+        "Categories": [
+            "Soups",
+            "Chinese",
+            "American"
+        ],
+        "Ingredients": [
+            "Firm White Fish Fillets",
+            "Fresh Ginger",
+            "Black Mushrooms",
+            "Chinese Ham",
+            "Winter Bamboo Shoots",
+            "Peanut Oil",
+            "Chicken Stock",
+            "Egg Whites",
+            "Chinese Black Vinegar"
+        ]
+    },
+    {
+        "Recipe": "Fish Head Sandpot (Sh\u0101gu\u014d Y\u00fat\u00f3u)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Carp Heads",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Pork Belly",
+            "Winter Bamboo Shoots",
+            "Dried Chinese Black Mushrooms",
+            "Thai Chiles",
+            "Chicken Stock",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Yangzhou Style Lion Heads (Y\u00e1ngzh\u014du Q\u012bngt\u0101ng Shizit\u00f3u)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Ground Pork",
+            "Pork Fat",
+            "Shrimp",
+            "Water Chestnuts",
+            "Green Onions",
+            "Fresh Ginger",
+            "Shaoxing Rice Wine",
+            "Mushroom Powder",
+            "Old-Fashioned Oats",
+            "Chicken Stock"
+        ]
+    },
+    {
+        "Recipe": "Braised Vegetarian Finches (Sh\u0101o S\u00f9hu\u00e1ngqu\u00e8)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Dried Chinese Black Mushrooms",
+            "Baby Bok Choy",
+            "Carrots",
+            "Peanut Oil",
+            "Firm Bean Curd",
+            "Soybeans",
+            "Green Onions",
+            "Light Soy Sauce",
+            "Toasted Sesame Oil",
+            "Bean Curd Skin",
+            "Mushroom Stock",
+            "Shaoxing Rice Wine",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Steamed Fish Jiangsu Style (Qingzh\u0113ng Xi\u0101ny\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Fish",
+            "Black Mushrooms",
+            "Bamboo Shoots",
+            "Chinese Ham",
+            "Fresh Ginger",
+            "Green Onions",
+            "Shaoxing Rice Wine",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "West Lake Piquant Fish (Xih\u00fa C\u00f9y\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Fish",
+            "Fresh Ginger",
+            "Chicken Stock",
+            "Green Onions",
+            "Peanut Oil",
+            "Chinese Black Vinegar",
+            "Rock Sugar",
+            "Shaoxing Rice Wine",
+            "Chinese Egg Noodles"
+        ]
+    },
+    {
+        "Recipe": "Fried Fish In A Sea Moss Batter (T\u00e1iti\u00e1o S\u016by\u016b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Fish",
+            "Green Onions",
+            "Shaoxing Rice Wine",
+            "Lemons",
+            "Fresh Ginger",
+            "Sea Moss",
+            "Peanut Oil",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Stir Fried Shrimp With Longjing Tea (L\u00f3ngjing Xi\u0101r\u00e9n)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Long Jing Tea",
+            "Shrimp",
+            "Egg Whites",
+            "Peanut Oil",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Crunchy Salt And Pepper Shrimp (Ji\u0101oy\u00e1n) S\u016bxi\u0101)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Shrimp",
+            "Shaoxing Rice Wine",
+            "Rice Bran Oil",
+            "Sea Salt",
+            "Black Peppercorns",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Bombs Over Tokyo (H\u014dngzh\u00e0 D\u014dngj\u012bng)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Short-Grain Rice",
+            "Shrimp",
+            "Egg Whites",
+            "Chicken Breasts",
+            "Chicken Stock",
+            "Shaoxing Rice Wine",
+            "Tomato Ketchup",
+            "Toasted Sesame Oil",
+            "Rice Vinegar",
+            "Black Mushrooms",
+            "Peanut Oil",
+            "Baby Peas"
+        ]
+    },
+    {
+        "Recipe": "Freshwater Eels With Yellow Chives (Jiuhu\u00e1ng Chao Sh\u00e0nh\u00fa)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Eels",
+            "Yellow Chives",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Shaoxing Rice Wine",
+            "Light Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Daokou Poached Chicken (D\u00e0okou Sh\u0101oj\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Stock",
+            "Shaoxing Rice Wine",
+            "Fish Sauce",
+            "Light Soy Sauce",
+            "Rock Sugar",
+            "Dried Tangerine Peel",
+            "Sand Ginger",
+            "Black Peppercorns",
+            "Sichuan Peppercorns",
+            "Fennel Seeds",
+            "Whole Star Anise",
+            "Cinnamon Sticks",
+            "Whole Cloves",
+            "Black Cardamom Pods",
+            "Whole Chicken",
+            "Maltose",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Wuwei Smoked Duck (W\u00faw\u00e9i X\u016bny\u0101)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Duck",
+            "Sea Salt",
+            "Pink Salt",
+            "Applewood Chips",
+            "Fennel Seeds",
+            "Whole Star Anise",
+            "Cinnamon Sticks",
+            "Sichuan Peppercorns",
+            "Soy Sauce",
+            "Chinese Black Vinegar",
+            "Rock Sugar",
+            "Green Onions",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Nanjing Saltwater Duck (N\u00e1njing Y\u00e1nshui Y\u0101)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Duck Legs",
+            "Sea Salt",
+            "Five-Spice Powder",
+            "Sichuan Peppercorns",
+            "Green Onions",
+            "Whole Star Anise",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Dongpo Pork (D\u014dngp\u014d) R\u00f2u)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Belly",
+            "Rock Sugar",
+            "Peanut Oil",
+            "Shaoxing Rice Wine",
+            "Green Onions",
+            "Fresh Ginger",
+            "Whole Star Anise",
+            "Cinnamon Sticks",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Pearl Meatballs (Zh\u0113nzh\u016bw\u00e1n)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Long-Grain Sticky Rice",
+            "Fatback",
+            "Water Chestnuts",
+            "Ground Pork",
+            "Flatfish",
+            "Fresh Ginger",
+            "Green Onions",
+            "Shaoxing Rice Wine",
+            "Chile Paste",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Shaoxing Style Pork Belly (M\u00e9ic\u00e0i K\u00f2r\u00f2u)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Belly",
+            "Dark Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Preserved Mustard Greens",
+            "Fresh Ginger",
+            "Green Onions",
+            "Rock Sugar",
+            "White Liquor"
+        ]
+    },
+    {
+        "Recipe": "Wuxi Spareribs (W\u00fax\u00ed P\u00e1igu)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Spareribs",
+            "Soy Sauce",
+            "Peanut Oil",
+            "Green Onions",
+            "Fresh Ginger",
+            "Shaoxing Rice Wine",
+            "Whole Star Anise",
+            "Cinnamon Sticks",
+            "Rock Sugar",
+            "Dark Soy Sauce",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Braised Tendons With Dried Shrimp Roe (Xi\u0101zi N\u00eduj\u012bn)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Beef Tendons",
+            "Peanut Oil",
+            "Dried Shrimp Roe",
+            "Fresh Ginger",
+            "Green Onions",
+            "Shaoxing Rice Wine",
+            "Soy Sauce",
+            "Fish Sauce",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Huaidian Smoked Lamb (Hu\u00e1idi\u00e0n X\u016bn Y\u00e1ngr\u00f2u)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lamb Riblets",
+            "Black Peppercorns",
+            "Whole Cloves",
+            "Sichuan Peppercorns",
+            "Fennel Seeds",
+            "Black Cardamom Pods",
+            "Wood Chips",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Oil Braised Spring Bamboo Shoots (Y\u00f3um\u00e8n Ch\u016bnsun)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Side Dish",
+            "Spring",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Frozen Spring Bamboo Shoots",
+            "Green Onions",
+            "Peanut Oil",
+            "Toasted Sesame Oil",
+            "Shaoxing Rice Wine",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Bitter Melons In Golden Sand (Jinsh\u0101 Kugu\u0101)",
+        "Categories": [
+            "Side Dish",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Bitter Melons",
+            "Sea Salt",
+            "Eggs",
+            "Fresh Ginger",
+            "Whole Star Anise",
+            "Sichuan Peppercorns",
+            "Dried Thai Chiles",
+            "Shaoxing Rice Wine",
+            "Green Onions",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Four Happiness Gluten And Vegetables (Sixi Kaof\u016b)",
+        "Categories": [
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Wheat Gluten",
+            "Peanut Oil",
+            "Wood Ear Fungus",
+            "Winter Bamboo Shoots",
+            "Dried Daylily Flowers",
+            "Soybeans",
+            "Green Onions",
+            "Fresh Ginger",
+            "Whole Star Anise",
+            "Dark Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Slow Braised Bok Choy (K\u00e0oc\u00e0i)",
+        "Categories": [
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Bok Choy",
+            "Green Onions",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Molded Ham, Chicken, And Bean Curd Shreds (Ji Hu\u014d Zhu G\u0101nsi)",
+        "Categories": [
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Breasts",
+            "Fresh Ginger",
+            "Green Onions",
+            "Black Mushrooms",
+            "Chinese Ham",
+            "Chicken Stock",
+            "Shaoxing Rice Wine",
+            "Bean Curd"
+        ]
+    },
+    {
+        "Recipe": "Lively Bean Curd (Huo D\u00f2ufu)",
+        "Categories": [
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Daylily Flowers",
+            "Wood Ear Fungus",
+            "Pork",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Green Onions",
+            "Soft Bean Curd",
+            "Peanut Oil",
+            "Stock",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Chestnut Bean Curd (Li D\u00f2ufu)",
+        "Categories": [
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Stock",
+            "Pork Belly",
+            "Chinese Ham",
+            "Fresh Ginger",
+            "Soft Bean Curd",
+            "Winter Bamboo Shoots",
+            "Chestnuts",
+            "Soy Sauce",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Fried Lotus Chips (Zh\u00e1 Oupi\u00e0n)",
+        "Categories": [
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Lotus Root",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Crab Shell Pastries (Xi\u00e9k\u00e9hu\u00e1ng)",
+        "Categories": [
+            "Pies, Tarts & Pastries",
+            "Snacks",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Ground Pork",
+            "Green Onions",
+            "Toasted Sesame Seeds",
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Crusty Vegetable Rice (C\u00e0if\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Cooking For 1 Or 2",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Bok Choy",
+            "Green Onions",
+            "Chinese Ham",
+            "Cooked Rice"
+        ]
+    },
+    {
+        "Recipe": "Xiaolongbao",
+        "Categories": [
+            "Pies, Tarts & Pastries",
+            "Main Course",
+            "Appetizers / Starters",
+            "Snacks",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Stock",
+            "Pork Skin",
+            "Fresh Ginger",
+            "Green Onions",
+            "Ground Pork",
+            "Pork Fat",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Oil",
+            "All-Purpose Flour"
+        ]
+    },
+    {
+        "Recipe": "Fried Green Onion Noodles (Congy\u00f3u B\u00e0nmi\u00e0n)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Green Onions",
+            "Peanut Oil",
+            "Light Soy Sauce",
+            "Thin Noodles"
+        ]
+    },
+    {
+        "Recipe": "Hangzhou Style Noodle Soup (Pi\u00e0 'R Chu\u0101n)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Toasted Sesame Oil",
+            "Pork",
+            "Shaoxing Rice Wine",
+            "Winter Bamboo Shoots",
+            "Mustard Greens",
+            "Sea Salt",
+            "Pork Stock",
+            "Peanut Oil",
+            "Soy Sauce",
+            "Bamboo Pith Fungus"
+        ]
+    },
+    {
+        "Recipe": "Rice Cakes With Salted Shanghainese Greens, Bamboo Shoots, And Green Soybeans (Xuelih\u00f3ng Suns\u012b M\u00e1od\u00f2u Chao Ni\u00e1n'G\u0101o)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Green Onions",
+            "Winter Bamboo Shoots",
+            "Soybeans",
+            "Sea Salt",
+            "Mustard Greens",
+            "Rice Cakes",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Rice Cakes With Pork And Vegetables (Sh\u00e0nghai Chao Ni\u00e1n'G\u0101o)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Black Mushrooms",
+            "Winter Bamboo Shoots",
+            "Napa Cabbage",
+            "Chinese Ham",
+            "Green Onions",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Rice Cakes",
+            "Chicken Stock",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Gold And Silver Fried Rice (Jiny\u00edn Zic\u00e0i Y\u0101ogou Chaofun)",
+        "Categories": [
+            "Stir-Fries",
+            "Rice Dishes",
+            "Main Course",
+            "Cooking For 1 Or 2",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Cooked Rice",
+            "Raw Cashew Nuts",
+            "Peanut Oil",
+            "Laver Seaweed",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Too Soft A Heart (X\u012bn T\u00e0o Ruan)",
+        "Categories": [
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Chinese Red Dates",
+            "Wheat Starch",
+            "Sticky Rice Flour",
+            "Rock Sugar",
+            "Osmanthus Syrup",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Lotus Leaf Eight Treasure Rice (H\u00e9y\u00e8 B\u0101baof\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Dessert",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Sticky Rice",
+            "Osmanthus Syrup",
+            "Pineapple",
+            "Unsweetened Coconut",
+            "Dried Lotus Leaves",
+            "Lotus Seeds",
+            "Raisins",
+            "Wolfberries",
+            "Chinese Red Dates",
+            "Dried Longan Fruits",
+            "Toasted Sesame Seeds",
+            "Nuts Of Your Choice",
+            "Water Chestnuts",
+            "Dried Fruits Of Your Choice"
+        ]
+    },
+    {
+        "Recipe": "Rice Pearl And Tangerine Petal Sweet Soup (J\u00fag\u0113ng T\u0101ngyu\u00e1n)",
+        "Categories": [
+            "Soups",
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Sticky Rice Flour",
+            "Canned Mandarin Oranges",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Sea Moss Sandies (T\u00e1it\u00e1o S\u016b)",
+        "Categories": [
+            "Cookies, Biscuits & Crackers",
+            "Afternoon Tea",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Sea Moss",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Butter"
+        ]
+    },
+    {
+        "Recipe": "Crystal Lychees (Shuijing Lizh\u012b)",
+        "Categories": [
+            "Candy / Sweets",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lychees",
+            "Powdered Gelatin",
+            "Lemons"
+        ]
+    },
+    {
+        "Recipe": "Candied Kumquats (Jinj\u00fa T\u00e1ng)",
+        "Categories": [
+            "Candy / Sweets",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Kumquats",
+            "Sugar"
+        ]
+    },
+    {
+        "Recipe": "Sweet Stuffed Lotus Roots (Ji\u0101ngmi Li\u00e1n Ou)",
+        "Categories": [
+            "Rice Dishes",
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Lotus Root",
+            "Sticky Rice",
+            "Rock Sugar",
+            "Osmanthus Syrup"
+        ]
+    },
+    {
+        "Recipe": "The Perfect Pot Of Chinese Tea (R\u00fah\u00e9 Q\u012bhao Zhongguo Ch\u00e1)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Tea"
+        ]
+    },
+    {
+        "Recipe": "Chrysanthemum Tea (H\u00e1ngzh\u014du J\u00fahu\u0101ch\u00e1)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Chrysanthemum Flowers"
+        ]
+    },
+    {
+        "Recipe": "Red Date Nectar (H\u00f3ngzao L\u00f9)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chinese Red Dates"
+        ]
+    },
+    {
+        "Recipe": "Cold Bamboo Shoots With Mayonnaise (Li\u00e1ngb\u00e0n Zh\u00fasun)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Winter Bamboo Shoots",
+            "Kewpie Mayonnaise"
+        ]
+    },
+    {
+        "Recipe": "Lemon Cashews (N\u00edngm\u00e9ng Y\u0101oguo)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Lemons",
+            "Dried Chinese Hawthorn Berries",
+            "Raw Cashew Nuts",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Shunde Raw Fish (Sh\u00f9nd\u00e9 Y\u00fash\u0113ng)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Fresh Ginger",
+            "Rice Vinegar",
+            "Peanut Oil",
+            "Cellophane Noodles",
+            "Taro Root",
+            "Sushi Grade Fluke",
+            "Peanuts",
+            "Toasted Sesame Seeds",
+            "Laver Seaweed",
+            "Red Jalape\u00f1o Chiles",
+            "Cilantro",
+            "Green Onions",
+            "Romaine Lettuce",
+            "Sichuan Pickled Mustard Root",
+            "Seasoned Rice Vinegar",
+            "Toasted Sesame Oil",
+            "Garlic",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Macanese Bacalau (Zh\u00e1 Maji\u00e8xi\u012bu Q\u00edu)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Macanese"
+        ],
+        "Ingredients": [
+            "Salt Cod",
+            "Baking Potatoes",
+            "Green Onions",
+            "Fresh Ginger",
+            "Soy Sauce",
+            "Tapenade",
+            "Cilantro",
+            "Coconut Cream",
+            "Potato Starch",
+            "Panko Breadcrumbs",
+            "Peanut Oil",
+            "Chinese Black Vinegar",
+            "Baby Greens"
+        ]
+    },
+    {
+        "Recipe": "Oyster Spring Rolls (Cu\u00ecp\u00ed H\u00e9juan)",
+        "Categories": [
+            "Fried Doughs",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Tomato Ketchup",
+            "Soy Sauce",
+            "Oysters",
+            "Pork Belly",
+            "Mung Bean Sprouts",
+            "Green Onions",
+            "Cilantro",
+            "Pastry Flour",
+            "Five-Spice Powder",
+            "Rice Wine",
+            "Spring Roll Wrappers",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Flower Mushroom Soup (Q\u012bngd\u00f9n Hu\u0101g\u016b T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Flower Mushrooms",
+            "Fresh Ginger",
+            "Green Onions",
+            "Rice Wine",
+            "Light Soy Sauce",
+            "Chicken Fat"
+        ]
+    },
+    {
+        "Recipe": "Sesame Oil Chicken Soup (M\u00e1y\u00f3u J\u012b T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Chicken",
+            "Toasted Sesame Oil",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Wood Ear Fungus"
+        ]
+    },
+    {
+        "Recipe": "Angelica Duck Soup (D\u0101nggu\u012b Y\u0101)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Duck",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Cinnamon Sticks",
+            "Angelica Root",
+            "Whole Star Anise",
+            "Szechuan Lovage Root",
+            "Wolfberries",
+            "Rice Vermicelli Noodles"
+        ]
+    },
+    {
+        "Recipe": "Pork Rib And Dried Bok Choy Soup (P\u00e1igu G\u0101nc\u00e0i T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Bok Choy",
+            "Pork Ribs",
+            "Leeks",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Carrots"
+        ]
+    },
+    {
+        "Recipe": "Meaty Bone Soup (R\u00f2ugu Ch\u00e1)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Spareribs",
+            "Soy Sauce",
+            "Rougu Cha Herbal Mix",
+            "Chinese Dried Black Mushrooms",
+            "Dried Daylily Flowers",
+            "Peanut Oil",
+            "Garlic",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Braised Stuffed Bean Curd (Ni\u00e0ng D\u00f2ufu)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Stock",
+            "Rice Wine",
+            "Fresh Ginger",
+            "Green Onions",
+            "Dark Soy Sauce",
+            "Rolled Oats",
+            "Ground Pork",
+            "Salted Fish",
+            "Bean Curd",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Fried Custard With Mushrooms (Xi\u0101ngg\u016b D\u00e0nd\u00f2ufu)",
+        "Categories": [
+            "Egg Dishes",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Eggs",
+            "Stock",
+            "Peanut Oil",
+            "Bok Choy",
+            "Fresh Ginger",
+            "Green Onions",
+            "Mixed Mushrooms",
+            "Soy Sauce",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Crispy Basil Omelet (Jiuc\u00e9ngta H\u014dngd\u00e0n)",
+        "Categories": [
+            "Egg Dishes",
+            "Main Course",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Basil",
+            "Peanut Oil",
+            "Eggs"
+        ]
+    },
+    {
+        "Recipe": "Salted Radish Omelet (C\u00e0ip\u00fa D\u00e0n)",
+        "Categories": [
+            "Egg Dishes",
+            "Main Course",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Eggs",
+            "Dried Salted Radishes"
+        ]
+    },
+    {
+        "Recipe": "Green Onion Omelet (C\u014dnghu\u0101 D\u00e0n)",
+        "Categories": [
+            "Egg Dishes",
+            "Main Course",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Eggs",
+            "Peanut Oil",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Guangdong Style Steamed Fish (Guangd\u014dng Q\u012bngzh\u0113ngy\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Flatfish",
+            "Fresh Ginger",
+            "Green Onions",
+            "Soy Sauce",
+            "Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Steamed Fish With Three Kinds Of Olives (S\u0101nlan Zh\u0113ngy\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chinese Olives",
+            "Ground Ginger",
+            "Fish Fillets",
+            "Chinese Olive Vegetable",
+            "Fresh Ginger",
+            "Red Jalape\u00f1o Chiles"
+        ]
+    },
+    {
+        "Recipe": "Whole Dry Fried Flounder (G\u0101nji\u0101n L\u00f3ngli)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Flounder",
+            "Rice Wine",
+            "Peanut Oil",
+            "Green Onions",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Shunde Braised Fish Puffs (Sh\u00f9nde Hui Yufu)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "White Fish Fillets",
+            "Green Onions",
+            "Rice Wine",
+            "Peanut Oil",
+            "Black Mushrooms",
+            "Fresh Ginger",
+            "Carrots",
+            "Oyster Sauce",
+            "Chicken Stock"
+        ]
+    },
+    {
+        "Recipe": "Blanched Squid With Garlicky Dipping Sauce (T\u00e0ng Y\u00f3uy\u00fa)",
+        "Categories": [
+            "Dips, Spreads & Salsas",
+            "Sauces, General",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Fresh Ginger",
+            "Garlic",
+            "Soy Sauce",
+            "Rice Wine",
+            "Squid"
+        ]
+    },
+    {
+        "Recipe": "Typhoon Shelter Crab (Bif\u0113ngt\u00e1ng Chaoxi\u00e8)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dungeness Crabs",
+            "Garlic",
+            "Peanut Oil",
+            "Fermented Black Beans",
+            "Jalape\u00f1o Chiles",
+            "Panko Breadcrumbs",
+            "Green Onions",
+            "Dried Chiles"
+        ]
+    },
+    {
+        "Recipe": "Stir Fried Milk With Crab (D\u00e0li\u00e0ng Chao N\u00edun\u00e0i)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Slivered Almonds",
+            "Milk",
+            "Crabmeat",
+            "Lap Chong Sausages",
+            "Egg Whites",
+            "Mushroom Powder"
+        ]
+    },
+    {
+        "Recipe": "Savory Crab And Cellophane Noodles (P\u00e1ngxi\u00e8 Fens\u012b Bao)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Cellophane Noodles",
+            "Dried Shrimp",
+            "Dungeness Crabs",
+            "Shallots",
+            "Fresh Ginger",
+            "Green Onions",
+            "Toasted Sesame Oil",
+            "Soy Sauce",
+            "Sweet Soy Sauce",
+            "Rice Wine",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Chaozhou Shrimp Skewers (Ch\u00e1ozh\u014du Kaoxi\u0101)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Shrimp",
+            "Rice Wine",
+            "Peanut Oil",
+            "Serrano Chiles",
+            "Green Onions",
+            "Fish Sauce"
+        ]
+    },
+    {
+        "Recipe": "Portuguese Chicken (P\u00fagu\u00f3 Ji)",
+        "Categories": [
+            "Main Course",
+            "Portuguese",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Pieces",
+            "Peanut Oil",
+            "Potatoes",
+            "Rice Wine",
+            "Japanese Curry Paste",
+            "Coconut Milk"
+        ]
+    },
+    {
+        "Recipe": "White Cut Chicken (Baigi\u0113 Ji)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Chicken",
+            "White Liquor",
+            "Toasted Sesame Oil",
+            "Green Onions",
+            "Fresh Ginger",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Hainan Chicken And Rice (H\u00e0in\u00e1n J\u012b F\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Chicken",
+            "White Liquor",
+            "Toasted Sesame Oil",
+            "Long Grain Rice",
+            "Bay Leaves",
+            "Fresh Ginger",
+            "Green Onions",
+            "Chicken Stock"
+        ]
+    },
+    {
+        "Recipe": "Salt Baked Chicken (Y\u00e1nj\u00fa J\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Rock Salt",
+            "Whole Chicken",
+            "Five-Spice Powder",
+            "Powdered Sand Ginger",
+            "Fresh Ginger",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "African Chicken (F\u0113izh\u014du J\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese",
+            "African"
+        ],
+        "Ingredients": [
+            "Chicken Thighs",
+            "Ground Chiles",
+            "Shallots",
+            "Sweet Paprika",
+            "Five-Spice Powder",
+            "Peanut Oil",
+            "Potatoes",
+            "Garlic",
+            "Bell Peppers",
+            "Coconut Milk",
+            "Peanut Butter",
+            "Chicken Broth",
+            "Parsley"
+        ]
+    },
+    {
+        "Recipe": "Wuzhou Paper Wrapped Chicken (W\u00fazh\u014du Zhib\u0101o Ji)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Wings",
+            "Fresh Ginger",
+            "Green Onions",
+            "Whole Star Anise",
+            "Sand Ginger",
+            "Dried Tangerine Peel",
+            "Rice Wine",
+            "Oyster Sauce",
+            "Dark Soy Sauce",
+            "Soy Sauce",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Three Cup Chicken (S\u0101nb\u0113i J\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Wings",
+            "Fresh Ginger",
+            "Garlic",
+            "Peanut Oil",
+            "Oyster Sauce",
+            "Rock Sugar",
+            "Rice Wine",
+            "Toasted Sesame Oil",
+            "Green Onions",
+            "Red Jalape\u00f1o Chiles",
+            "Basil"
+        ]
+    },
+    {
+        "Recipe": "Spareribs With Garlic And Plum Sauce (M\u00e9ig\u0101oji\u00e0ng B\u00e0o P\u00e1igu)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Spareribs",
+            "Rice Wine",
+            "Fresh Ginger",
+            "Peanut Oil",
+            "Garlic",
+            "Plum Sauce",
+            "Rice Vinegar",
+            "Chinese Black Vinegar",
+            "Soy Sauce",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Char Siu (Ch\u0101sh\u0101o)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Shoulder",
+            "Char Siu Sauce",
+            "Agave Syrup",
+            "Tomato Ketchup",
+            "White Liquor",
+            "Soy Sauce",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Pork Belly With Preserved Mustard Greens (M\u00edic\u00e0i K\u00f2u R\u00f2u)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Belly",
+            "Dark Soy Sauce",
+            "Peanut Oil",
+            "Preserved Mustard Greens",
+            "Green Onions",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Soy Sauce",
+            "Agave Syrup"
+        ]
+    },
+    {
+        "Recipe": "Diced Braised Pork Over Rice (Lur\u00f2u F\u00e0n)",
+        "Categories": [
+            "Stews & One-Pot Meals",
+            "Rice Dishes",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Shoulder",
+            "Shallots",
+            "Garlic",
+            "Peanut Oil",
+            "Peanut Butter",
+            "Ground Cinnamon",
+            "Whole Star Anise",
+            "Five-Spice Powder",
+            "Light Soy Sauce",
+            "Rice Wine",
+            "Rock Sugar",
+            "Cooked Rice"
+        ]
+    },
+    {
+        "Recipe": "Steamed Minced Pork With Salted Fish (Xi\u00e1ny\u00fa R\u00f2ubing)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Ground Pork",
+            "Green Onions",
+            "Fresh Ginger",
+            "Mushroom Powder",
+            "Soy Sauce",
+            "Rice Wine",
+            "Shallots",
+            "Salted Fish"
+        ]
+    },
+    {
+        "Recipe": "Water Spinach With Bean Curd \"Cheese\" And Chilies (Furu K\u014dngx\u012bnc\u00e0i)",
+        "Categories": [
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Water Spinach",
+            "Fermented Bean Curd",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Jalape\u00f1o Chiles",
+            "Rice Wine",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Gailan With Oyster Sauce (Haoy\u00f3u Ji\u00e8l\u00e0n)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Gai Lan",
+            "Peanut Oil",
+            "Rice Wine",
+            "Oyster Sauce",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Garlic Chive Flowers With Pressed Bean Curd (Jiuc\u00e0ihu\u0101 Chao D\u00f2ufug\u0101n)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Garlic Chive Flowers",
+            "Pressed Bean Curd",
+            "Peanut Oil",
+            "Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Crisp Silk Gourd Cr\u00eapes (Cu\u00eczh\u00e1 Sigu\u0101 Ji\u0101n)",
+        "Categories": [
+            "Pancakes, Waffles & Cr\u00eapes",
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Silk Gourds",
+            "Peanut Oil",
+            "Dried Salted Radishes",
+            "Peanuts",
+            "Sweet Potato Starch",
+            "Green Onions",
+            "Fish Sauce",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Yi Residence Noodles (Yifu Mi\u00e0n)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Chinese Egg Noodles",
+            "Shrimp",
+            "Firm White Fish Fillets",
+            "Rice Wine",
+            "Yellow Chives",
+            "Fresh Ginger",
+            "Chicken Stock",
+            "Soy Sauce",
+            "Fish Sauce",
+            "Toasted Sesame Oil",
+            "Chinese Black Vinegar",
+            "Cilantro"
+        ]
+    },
+    {
+        "Recipe": "Sesame Noodles (M\u00e1ji\u00e0ng Mi\u00e0n)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Toasted Sesame Oil",
+            "Chinese Toasted Sesame Paste",
+            "Peanut Butter",
+            "Green Onions",
+            "Soy Sauce",
+            "Chinese Dark Vinegar",
+            "Wheat Noodles"
+        ]
+    },
+    {
+        "Recipe": "Stir Fried Grilled Breads (Chaobing)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Black Mushrooms",
+            "Soy Sauce",
+            "Rice Wine",
+            "Garlic Chives",
+            "Mung Bean Sprouts",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Eggs",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Cheong Fun (Ch\u00e1ngf\u00e8n)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "White Rice",
+            "Wheat Starch",
+            "Tapioca Flour",
+            "Cooked Duck",
+            "Cellophane Noodles",
+            "Peanut Oil",
+            "Slivered Almonds",
+            "Cilantro",
+            "Sweet Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Stir Fried Rice Noodles And Satay Beef (Sh\u0101ch\u00e1 N\u00edur\u00f2u Chaoh\u00e9)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Beef Flank Steaks",
+            "Peanut Oil",
+            "Rice Noodles",
+            "Soy Sauce",
+            "Mung Bean Sprouts",
+            "Black Mushrooms",
+            "Fresh Ginger",
+            "Green Onions",
+            "Rice Wine",
+            "Satay Sauce"
+        ]
+    },
+    {
+        "Recipe": "Crusty Rice With Charcuterie (B\u00e0ozi F\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Jasmine Rice",
+            "Lop Chong Sausages",
+            "Chinese Duck Liver Sausages",
+            "Cured Pork Belly",
+            "Black Mushrooms",
+            "Fresh Ginger",
+            "White Liquor",
+            "Soy Sauce",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Fried Rice With Chicken And Salted Fish (Xi\u00e1nyu J\u012bli Chaof\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Cooked White Rice",
+            "Peanut Oil",
+            "Cooked Chicken Meat",
+            "Salted Fish",
+            "Iceberg Lettuce",
+            "Green Onions",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Taro Rice (Hain\u00e1n Y\u00f9f\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Long Grain Rice",
+            "Taro Root",
+            "Unsweetened Coconut",
+            "Green Onions",
+            "Peanuts"
+        ]
+    },
+    {
+        "Recipe": "Savory Sticky Rice (Y\u00f3uf\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chinese Dried Black Mushrooms",
+            "Dried Shrimp",
+            "Pork Belly",
+            "Dark Soy Sauce",
+            "Rice Wine",
+            "Shallots",
+            "Peanuts",
+            "Sticky Rice"
+        ]
+    },
+    {
+        "Recipe": "Congee (Guangd\u014dng Zh\u014du)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Jasmine Rice",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Lotus Leaf Congee (H\u00e9y\u00e8 Zh\u014du)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Jasmine Rice",
+            "Peanut Oil",
+            "Dried Lotus Leaves"
+        ]
+    },
+    {
+        "Recipe": "Chaozhou Style Congee (Ch\u00e1ozh\u014du M\u00ed)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Jasmine Rice",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Sweet Potato Congee (H\u00f3ngshu X\u012bf\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Jasmine Rice",
+            "Peanut Oil",
+            "Sweet Potatoes"
+        ]
+    },
+    {
+        "Recipe": "Pork And Preserved Egg Congee (Pid\u00e0n Sh\u00f2ur\u00f2u Zh\u014du)",
+        "Categories": [
+            "Rice Dishes",
+            "Egg Dishes",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Jasmine Rice",
+            "Peanut Oil",
+            "Mushroom Seasoning",
+            "Chinese Cruller Bread",
+            "Toasted Sesame Oil",
+            "Fresh Ginger",
+            "Pork",
+            "Preserved Eggs",
+            "Green Onions",
+            "Peanuts"
+        ]
+    },
+    {
+        "Recipe": "Sampan Congee (T\u012bnzi Zh\u014du)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Jasmine Rice",
+            "Peanut Oil",
+            "Mushroom Seasoning",
+            "Pork Stomach",
+            "Pig Skin",
+            "Cuttlefish",
+            "Rice Vermicelli Noodles",
+            "Toasted Sesame Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Peanuts"
+        ]
+    },
+    {
+        "Recipe": "Roast Duck Congee (Kaoy\u0101 Zh\u014du)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Jasmine Rice",
+            "Peanut Oil",
+            "Mushroom Seasoning",
+            "Chinese Celery",
+            "Chinese Cruller Bread",
+            "Toasted Sesame Oil",
+            "Fresh Ginger",
+            "Roast Duck"
+        ]
+    },
+    {
+        "Recipe": "Hakka Tamales (K\u00e8ji\u0101 Banz\u00f2ng)",
+        "Categories": [
+            "Rice Dishes",
+            "Snacks",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Bamboo Leaves",
+            "Dark Soy Sauce",
+            "Rice Wine",
+            "Five-Spice Powder",
+            "Black Mushrooms",
+            "Toon Leaves",
+            "Tofu Skins",
+            "Pressed Bean Curd",
+            "Sesame Seeds",
+            "Peanut Oil",
+            "Peanuts",
+            "Shallots",
+            "Sticky Rice Flour",
+            "Pastry Flour",
+            "Gluten Batons"
+        ]
+    },
+    {
+        "Recipe": "Ginger Milk Pudding (Ji\u0101ngzh\u012b Zhu\u00e0ng Nai)",
+        "Categories": [
+            "Mousses, Trifles, Custards & Creams",
+            "Dessert",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Fresh Ginger",
+            "Agave Syrup",
+            "Milk"
+        ]
+    },
+    {
+        "Recipe": "Baked Coconut Tapioca Custard (Y\u0113zi X\u012bmi J\u00fa B\u00f9ding)",
+        "Categories": [
+            "Baked & Steamed Desserts",
+            "Dessert",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Taro Root",
+            "Tapioca Pearls",
+            "Coconut Milk"
+        ]
+    },
+    {
+        "Recipe": "The Wife'S Cookies (Laop\u00f3 Bing)",
+        "Categories": [
+            "Cookies, Biscuits & Crackers",
+            "Afternoon Tea",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Winter Melon Gourds",
+            "Lard",
+            "Sticky Rice Flour",
+            "Sugar",
+            "Shredded Coconut",
+            "Toasted Sesame Seeds",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Egg Yolks"
+        ]
+    },
+    {
+        "Recipe": "Hakka Nine Layer Confection (K\u00e8ji\u0101 Jiuc\u0117ngg\u0101o)",
+        "Categories": [
+            "Candy / Sweets",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Rice Flour",
+            "Japanese Black Sugar",
+            "Store-Cupboard Ingredients"
+        ]
+    },
+    {
+        "Recipe": "Sun Cookies (T\u00e0iy\u00e1ng Bing)",
+        "Categories": [
+            "Cookies, Biscuits & Crackers",
+            "Afternoon Tea",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Vegetable Shortening",
+            "Maltose",
+            "Salted Butter",
+            "Powdered Milk"
+        ]
+    },
+    {
+        "Recipe": "Malay Sponge Cake (Mal\u0101g\u0101o)",
+        "Categories": [
+            "Cakes, Large",
+            "Dessert",
+            "Chinese",
+            "Malaysian"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Soy Sauce",
+            "Cake Flour",
+            "Store-Cupboard Ingredients"
+        ]
+    },
+    {
+        "Recipe": "Guangdong Style Moon Cakes (Guangd\u014dng Yu\u00e8bing)",
+        "Categories": [
+            "Cakes, Small",
+            "Dessert",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Peanut Oil",
+            "Rice Vinegar",
+            "Powdered Sugar",
+            "Filling Of Your Choice"
+        ]
+    },
+    {
+        "Recipe": "Water Chestnut Gel\u00e9e (Mat\u00edg\u0101o)",
+        "Categories": [
+            "Candy / Sweets",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Water Chestnuts",
+            "Water Chestnut Flour",
+            "Store-Cupboard Ingredients"
+        ]
+    },
+    {
+        "Recipe": "Icy Green Mangoes (Q\u00edngr\u00e9n Guo)",
+        "Categories": [
+            "Ice Cream & Frozen Desserts",
+            "Quick / Easy",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Green Mangoes",
+            "Sugar"
+        ]
+    },
+    {
+        "Recipe": "Sweet Coconut Soup (Y\u0113zh\u012b X\u012bmi L\u00f9)",
+        "Categories": [
+            "Soups",
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Pearl Tapioca",
+            "Rock Sugar",
+            "Coconut Milk",
+            "Melons"
+        ]
+    },
+    {
+        "Recipe": "Pearl Or Bubble Tea (B\u014db\u00e0ch\u00e1)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Boba",
+            "Lychee Juice",
+            "Lychee Tea"
+        ]
+    },
+    {
+        "Recipe": "Hong Kong Milk Tea (Xi\u0101nggang Naich\u00e1)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Black Tea Leaves",
+            "Condensed Milk"
+        ]
+    },
+    {
+        "Recipe": "Yuanyang Tea (Xi\u0101nggang Naich\u00e1)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Black Tea Leaves",
+            "Condensed Milk",
+            "Coffee"
+        ]
+    },
+    {
+        "Recipe": "Spicy Mung Bean Jelly Shreds (Guizh\u014du Li\u00e1ng Fen)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Mung Bean Powder",
+            "Fermented Black Beans",
+            "Fresh Ginger",
+            "Chile Oil",
+            "Soy Sauce",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Oil",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Raw \"White Jade\" Bitter Melon (Li\u00e1ngb\u00e0n B\u00e1iyukugu\u0101)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Bitter Melons",
+            "Red Jalape\u00f1o Chiles",
+            "Green Onions",
+            "Fermented Black Beans",
+            "Soy Sauce",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Cold Tossed Jellyfish (Li\u00e1ngb\u00e0n Haizh\u00e9t\u00f3u)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Salted Jellyfish Heads",
+            "Toasted Sesame Oil",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Red Jalape\u00f1o Chiles",
+            "Green Onions",
+            "Chinese Black Vinegar",
+            "Sweet Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Dry Fried Chicken Wings (G\u0101np\u0113ng J\u012bch\u00ec)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Wings",
+            "Peanut Oil",
+            "Garlic",
+            "Fresh Ginger",
+            "Green Onions",
+            "Dried Thai Chiles",
+            "Rice Vinegar",
+            "Sichuan Peppercorns",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Mouthwatering Chicken (Koushuj\u012b)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Thighs",
+            "Peanut Oil",
+            "Toasted Sesame Oil",
+            "Dried Chiles",
+            "Sichuan Peppercorns",
+            "Dried Orange Peel",
+            "Soy Sauce",
+            "Rice Wine",
+            "Rice Vinegar",
+            "Chinese Black Vinegar",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Big, Thin Slices Of A Pig'S Head (D\u00e0b\u00e1opi\u00e0n)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pig Jowls",
+            "White Liquor",
+            "Green Onions",
+            "Fresh Ginger",
+            "Sichuan Peppercorns",
+            "Fennel Seeds",
+            "Red Jalape\u00f1o Chiles",
+            "Garlic",
+            "Soy Sauce",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Bean Curd Quenelle Soup (D\u00f2ufu Yu\u00e1nzi T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Cellophane Noodles",
+            "Black Mushrooms",
+            "Winter Bamboo Shoots",
+            "Spinach",
+            "Bean Curd",
+            "Ground Pork",
+            "Shaoxing Rice Wine",
+            "Toasted Sesame Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Chicken Stock"
+        ]
+    },
+    {
+        "Recipe": "Flash Fish Soup (Sh\u00e0ngt\u0101ng Y\u00fash\u0113ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Fish Fillets",
+            "Shaoxing Rice Wine",
+            "Chinese Cruller Bread",
+            "Black Mushrooms",
+            "Romaine Lettuce",
+            "Cilantro",
+            "Chicken Stock",
+            "Fresh Ginger",
+            "Chicken Fat",
+            "Rice Vinegar",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Shredded Pork And Pickle Soup (Zh\u00e0 C\u00e0i R\u00f2us\u012b T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork",
+            "Sichuan Pickled Mustard Root",
+            "Black Mushrooms",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Toasted Sesame Oil",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Yunnan Ham And Wild Mushroom Soup (Yeg\u016b Y\u00fantui T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Fat",
+            "Fresh Ginger",
+            "Dry-Cured Ham",
+            "Rice Wine",
+            "Chicken Stock",
+            "Assorted Mushrooms",
+            "Bamboo Pith Fungus"
+        ]
+    },
+    {
+        "Recipe": "Gold Hooks Hanging On Jade Plaques (Jin' G\u014du Gu\u00e0 Y\u00f9p\u0101i)",
+        "Categories": [
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Soybean Sprouts",
+            "Bean Curd",
+            "Green Onions",
+            "Toasted Sesame Oil",
+            "Peanut Oil",
+            "Dried Chillies",
+            "Sichuan Peppercorns",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Peng Family Bean Curd (P\u00e9ngji\u0101 D\u00f2ufu)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Firm Bean Curd",
+            "Pork Loin",
+            "Rice Wine",
+            "Leeks",
+            "Peanut Oil",
+            "Red Jalape\u00f1o Chiles",
+            "Fermented Black Beans",
+            "Soy Sauce",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Zhuang Style Stuffed Bean Curd Balls (Zhu\u00e0ngji\u0101 Ni\u00e0ng D\u00f2ufu)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Firm Bean Curd",
+            "Lean Pork",
+            "Black Mushrooms",
+            "Fresh Ginger",
+            "Green Onions",
+            "Soy Sauce",
+            "Pork Fat",
+            "Peanut Oil",
+            "Cornstarch",
+            "Rice Wine",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Mapo Doufu (M\u00e1po D\u00f2ufu)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Soft Bean Curd",
+            "Ground Beef",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Fermented Black Beans",
+            "Sichuan Hot Bean Sauce",
+            "Dried Chillies",
+            "Stock",
+            "Leeks",
+            "Sweet Soy Sauce",
+            "Soybean Flour",
+            "Sichuan Peppercorns",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Cod With Crispy Bean Sauce (D\u00f2us\u016b Xuey\u00fa)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Cod Fillets",
+            "Rice Wine",
+            "Crispy Dried Soybeans",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Dried Chillies",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Smoked Whole Fish Hunan Style (Sh\u0113ngx\u016bn Y\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Fish",
+            "Fresh Ginger",
+            "Green Onions",
+            "Sichuan Peppercorns",
+            "Shaoxing Rice Wine",
+            "Applewood Chips",
+            "Rice",
+            "Tea Leaves",
+            "Black Rice Vinegar",
+            "Cilantro",
+            "Chili Oil",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Fish And Bean Curd In Fermented Bean Sauce (D\u00f2ufu D\u00f2ub\u00e0n Y\u00fa)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Freshwater Fish",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Firm Bean Curd",
+            "Sichuan Hot Bean Sauce",
+            "Red Wine Lees",
+            "Sweet Soy Sauce",
+            "Chinese Black Vinegar",
+            "Sichuan Peppercorns"
+        ]
+    },
+    {
+        "Recipe": "Fish Fragrant Prawns (Y\u00faxi\u0101ng Du\u00ecxi\u0101)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Prawns",
+            "Egg Whites",
+            "Peanut Oil",
+            "Water Chestnuts",
+            "Black Mushrooms",
+            "Pickled Red Chiles",
+            "Garlic",
+            "Green Onions",
+            "Fresh Ginger",
+            "Chinese Black Vinegar",
+            "Soy Sauce",
+            "Sichuan Hot Bean Sauce"
+        ]
+    },
+    {
+        "Recipe": "Kung Pao Scallops (G\u014dngbao G\u0101nb\u00e8i)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Scallops",
+            "Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Black Mushrooms",
+            "Chinese Celery",
+            "Fresh Ginger",
+            "Garlic",
+            "Green Onions",
+            "Dried Thai Chiles",
+            "Peanut Oil",
+            "Sichuan Peppercorns",
+            "Peanuts"
+        ]
+    },
+    {
+        "Recipe": "Steampot Chicken (Qigu\u014d J\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Breasts",
+            "Chinese Ham",
+            "Winter Bamboo Shoots",
+            "Black Mushrooms",
+            "Fresh Ginger",
+            "Green Onions",
+            "Wolfberries",
+            "Rice Wine",
+            "Chicken Stock",
+            "Light Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Chili Chicken (L\u00e0zi J\u012b)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Chicken",
+            "Rice Wine",
+            "Soy Sauce",
+            "Peanut Oil",
+            "Sweet Soy Sauce",
+            "Leeks",
+            "Dried Thai Chiles",
+            "Garlic",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Lemongrass Chicken (Xi\u0101ngm\u00e1ocao Kaoj\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Chicken",
+            "Lemongrass",
+            "Soy Sauce",
+            "Cilantro",
+            "Green Onions",
+            "Fresh Ginger",
+            "Dried Chillies",
+            "Chicken Fat"
+        ]
+    },
+    {
+        "Recipe": "Twice Cooked Pork (Huigu\u014d R\u00f2u)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Belly",
+            "Pressed Bean Curd",
+            "Red Peppers",
+            "Leeks",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Toasted Sesame Oil",
+            "Bean Sauce",
+            "Sichuan Hot Bean Sauce",
+            "Sweet Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Dongan Chicken (D\u014dng\u0101n J\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Sichuan Peppercorns",
+            "Dark Soy Sauce",
+            "Shaoxing Rice Wine",
+            "Rock Sugar",
+            "Whole Chicken",
+            "Dried Chillies",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Camphor Tea Duck (Zh\u0101ng Ch\u00e1 Y\u0101)",
+        "Categories": [
+            "Spice / Herb Blends & Rubs",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Duck",
+            "Pink Salt",
+            "Sichuan Peppercorns",
+            "Shaoxing Rice Wine",
+            "Green Onions",
+            "Fresh Ginger",
+            "Tea Leaves",
+            "Toasted Sesame Oil",
+            "Bean Sauce",
+            "Sweet Soy Sauce",
+            "Peanut Oil",
+            "Dried Camphor Leaves"
+        ]
+    },
+    {
+        "Recipe": "Lotus Wrapped Spicy Rice Crumb Pork (H\u00e9y\u00e8 F\u00e9nzh\u0113ngr\u00f2u)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Pork Shanks",
+            "Bean Curd",
+            "Red Wine Lees",
+            "Sweet Soy Sauce",
+            "Fresh Ginger",
+            "Green Onions",
+            "Garlic",
+            "Chile Paste",
+            "White Rice",
+            "Dried Lotus Leaves",
+            "Sweet Wheat Paste"
+        ]
+    },
+    {
+        "Recipe": "Honey Ham (Mizh\u012b Huotui)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lotus Seeds",
+            "Cured Pork",
+            "Rock Sugar",
+            "Shaoxing Rice Wine",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Dry Fried Bitter Melon (G\u0101nbi\u0101n Kugu\u0101)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Bitter Melons",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Ginkgo Nuts, Chinese Celery, And Lily Bulbs (B\u00e1iguo Q\u00ednc\u00e0i Chao Baih\u00e9)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Ginkgo Nuts",
+            "Chinese Celery",
+            "Lily Bulbs",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Black Bean Asparagus (D\u00f2uchi Chao L\u00fasun)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Asparagus",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Fermented Black Beans"
+        ]
+    },
+    {
+        "Recipe": "Stuffed Squash Blossoms (Gu\u0101hu\u0101 Ni\u00e0ng)",
+        "Categories": [
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Squash Blossoms",
+            "Pork",
+            "Green Onions",
+            "Soy Sauce",
+            "Red Jalape\u00f1o Chiles",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Mustard Cabbage With Schmaltz And Ginger (Jiy\u00f3u Ji\u00e8c\u00e0i)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Mustard Cabbage",
+            "Chicken Fat",
+            "Fresh Ginger",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Cumin Roasted Potatoes (Zir\u00e1n Kao Mal\u00edngshu)",
+        "Categories": [
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "New Potatoes",
+            "Peanut Oil",
+            "Green Onions",
+            "Sichuan Peppercorns",
+            "Ground Cumin",
+            "Dried Chiles"
+        ]
+    },
+    {
+        "Recipe": "Spicy And Numbing Cold Noodles (Sichu\u0101n Li\u00e1ngmi\u00e0n)",
+        "Categories": [
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Mung Bean Sprouts",
+            "Fresh Chinese Egg Noodles",
+            "Oranges",
+            "Meyer Lemons",
+            "Garlic",
+            "Fermented Black Beans",
+            "Peanut Oil",
+            "Toasted Sesame Oil",
+            "Fresh Ginger",
+            "Dried Chiles",
+            "Chile Oil",
+            "Sugar",
+            "Soy Sauce",
+            "Sichuan Peppercorns",
+            "Licorice Root",
+            "Whole Star Anise",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Seeds"
+        ]
+    },
+    {
+        "Recipe": "Wontons In Chili Oil (H\u00f3ngy\u00f3u Chaoshou)",
+        "Categories": [
+            "Main Course",
+            "Side Dish",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Fresh Ginger",
+            "Chicken Stock",
+            "Pork Shoulder",
+            "Light Soy Sauce",
+            "Rice Wine",
+            "Green Onions",
+            "Toasted Sesame Oil",
+            "Wonton Wrappers",
+            "Peanut Oil",
+            "Dried Chiles",
+            "Sichuan Peppercorns",
+            "Dried Orange Peel"
+        ]
+    },
+    {
+        "Recipe": "Pork And Preserved Mustard Green Baozi (M\u00e9ic\u00e0i R\u00f2u B\u0101o)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Snacks",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Active Dry Yeast",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Peanut Oil",
+            "Preserved Mustard Greens",
+            "Pork Shoulder",
+            "Soy Sauce",
+            "Rice Wine",
+            "Fresh Ginger",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Rice \"Bean Curd\" (Mi D\u00f2ufu)",
+        "Categories": [
+            "Main Course",
+            "Summer",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Sticky Rice Flour",
+            "Sauce Or Gravy Of Your Choice"
+        ]
+    },
+    {
+        "Recipe": "Crossing The Bridge Rice Noodles (Gu\u00f2qi\u00e1o Mixi\u00e0n)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Rice Noodles",
+            "Chicken Stock",
+            "Rice Wine",
+            "Fresh Ginger",
+            "Chicken Fat",
+            "Spinach",
+            "Chicken Breasts",
+            "Soy Sauce",
+            "Black Mushrooms"
+        ]
+    },
+    {
+        "Recipe": "Guilin Rice Noodles (Gu\u00ecl\u00edn Mifen)",
+        "Categories": [
+            "Main Course",
+            "Cooking For 1 Or 2",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Rice Noodles",
+            "Sichuan Peppercorns",
+            "Whole Star Anise",
+            "Bay Leaves",
+            "White Liquor",
+            "Rock Sugar",
+            "Fresh Ginger",
+            "Garlic",
+            "Red Jalape\u00f1o Chiles",
+            "Chinese Long Beans",
+            "Beef Shanks",
+            "Green Onions",
+            "Soy Sauce",
+            "Cinnamon Sticks",
+            "Fennel Seeds",
+            "Dried Thai Chiles",
+            "Rice Wine",
+            "Cilantro",
+            "Soybeans"
+        ]
+    },
+    {
+        "Recipe": "Water Chestnut Pastries With Red Date Filling (H\u00f3ngzao B\u00edqi Bing)",
+        "Categories": [
+            "Pies, Tarts & Pastries",
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Dried Chinese Dates",
+            "Toasted Sesame Oil",
+            "Water Chestnuts",
+            "Sticky Rice Flour",
+            "Peanut Oil",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Raw Chinese Yam With Osmanthus Syrup (Gu\u00echu\u0101 Sh\u0101ny\u00e0o)",
+        "Categories": [
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Chinese Yams",
+            "Osmanthus Syrup"
+        ]
+    },
+    {
+        "Recipe": "Ciba (Cib\u0101)",
+        "Categories": [
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Peanuts",
+            "Toasted Sesame Seeds",
+            "Sticky Rice Flour"
+        ]
+    },
+    {
+        "Recipe": "Drunken Eight Immortals (Zui B\u0101xi\u0101n)",
+        "Categories": [
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Job'S Tears",
+            "Wolfberries",
+            "Lily Bulbs",
+            "Sticky Rice Flour",
+            "Water Chestnut Flour",
+            "Rock Sugar",
+            "Fruits Of The Forest",
+            "Fermented Rice"
+        ]
+    },
+    {
+        "Recipe": "Winter Congee With Eight Treasures (L\u00e0b\u0101zh\u014du)",
+        "Categories": [
+            "Rice Dishes",
+            "Dessert",
+            "Winter",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Red Beans",
+            "Raw Peanuts",
+            "Sticky Rice",
+            "Walnuts",
+            "Rock Sugar",
+            "Slivered Almonds",
+            "Dried Red Dates",
+            "Dried Longan Fruits",
+            "Raisins",
+            "Wolfberries"
+        ]
+    },
+    {
+        "Recipe": "Candy Coated Almonds (Xingr\u00e9n Ni\u00e1n)",
+        "Categories": [
+            "Candy / Sweets",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Raw Almonds",
+            "Peanut Oil",
+            "Sugar"
+        ]
+    },
+    {
+        "Recipe": "Peanut Milk (Hu\u0101sh\u0113ng Nail\u00f9)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Dried Red Dates",
+            "Raw Peanuts",
+            "White Rice",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Floral Tisanes (Hu\u0101ch\u00e1)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Edible Dried Flowers"
+        ]
+    },
+    {
+        "Recipe": "Lettuce With Three Shreds (S\u0101ns\u012b Sh\u0113ngc\u00e0i)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Iceberg Lettuce",
+            "Dried Thai Chiles",
+            "Dried Wood Ear Mushrooms",
+            "Chinese Black Vinegar",
+            "Fresh Ginger",
+            "Toasted Sesame Oil",
+            "Toasted Sesame Seeds"
+        ]
+    },
+    {
+        "Recipe": "Vegetable Confetti Salad (Labu Dangtsel)",
+        "Categories": [
+            "Salads",
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Korean Radishes",
+            "Carrots",
+            "Tomatoes",
+            "Cilantro"
+        ]
+    },
+    {
+        "Recipe": "Peanuts With Pickled Garlic (Ch\u00e9nc\u00f9 Hu\u0101sh\u0113ng)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Peanuts",
+            "Peanut Oil",
+            "Garlic",
+            "Chinese Black Vinegar",
+            "Dark Brown Sugar",
+            "Dark Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Tossed Cilantro And Peanut Salad (Hu\u0101sh\u0113ngmi B\u00e0n Xi\u0101ngc\u00e0i)",
+        "Categories": [
+            "Salads",
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Peanuts",
+            "Cilantro",
+            "Red Peppers",
+            "Sugar",
+            "Soy Sauce",
+            "Sichuan Peppercorns",
+            "Licorice Root",
+            "Whole Star Anise",
+            "Fresh Ginger",
+            "Toasted Sesame Seeds",
+            "Shallots",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "West Wind Tea Quail Eggs (Xifeng Ch\u00e1 Ch\u00fand\u00e0n)",
+        "Categories": [
+            "Egg Dishes",
+            "Appetizers / Starters",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Quail Eggs",
+            "Green Tea",
+            "Fresh Ginger",
+            "Green Onions",
+            "Sichuan Peppercorns",
+            "Dried Tangerine Peel",
+            "Fennel Seeds",
+            "Rock Sugar",
+            "Soy Sauce",
+            "White Liquor"
+        ]
+    },
+    {
+        "Recipe": "Sesame Lamb (Zhim\u00e1 Y\u00e1ngr\u00f2us\u012b)",
+        "Categories": [
+            "Stir-Fries",
+            "Appetizers / Starters",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lamb Shoulder",
+            "Dark Soy Sauce",
+            "White Liquor",
+            "Red Jalape\u00f1o Chiles",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Seeds"
+        ]
+    },
+    {
+        "Recipe": "Lamb Soup With Biscuits (Y\u00e1ngr\u00f2u P\u00e0om\u00f3)",
+        "Categories": [
+            "Soups",
+            "Bread & Rolls, Savory",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lamb",
+            "Meat Stock",
+            "Fennel Seeds",
+            "Sichuan Peppercorns",
+            "Whole Star Anise",
+            "Cinnamon Sticks",
+            "Dried Thai Chiles",
+            "Fresh Ginger",
+            "Green Onions",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Active Dry Yeast",
+            "Cellophane Noodles",
+            "Dried Wood Ear Fungus",
+            "Cilantro",
+            "Garlic",
+            "Chinese Black Vinegar",
+            "Dark Brown Sugar",
+            "Dark Soy Sauce",
+            "Oil",
+            "Dried Korean Chiles",
+            "Fermented Black Beans"
+        ]
+    },
+    {
+        "Recipe": "Lanzhou Beef Noodle Soup (L\u00e1nzh\u014du N\u00edur\u00f2u Mi\u00e0n)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Beef Shanks",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Leeks",
+            "Bean Sauce",
+            "Rice Wine",
+            "Rock Sugar",
+            "Soy Sauce",
+            "Chinese Radishes",
+            "Carrots",
+            "Tomatoes",
+            "Beef Stock",
+            "Black Cardamom Pods",
+            "Fennel Seeds",
+            "Sichuan Peppercorns",
+            "White Peppercorns",
+            "Sand Ginger",
+            "Licorice Root",
+            "Dried Tangerine Peel",
+            "Cinnamon Sticks",
+            "Whole Star Anise",
+            "Fresh Noodles"
+        ]
+    },
+    {
+        "Recipe": "Lamb Noodle Soup (Guriltai Shul And Gyatuk)",
+        "Categories": [
+            "Soups",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Garlic",
+            "Turmeric",
+            "Fresh Ginger",
+            "Lamb Shanks",
+            "Soy Sauce",
+            "Tomatoes",
+            "Carrots",
+            "Noodles",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Ningxia Midwinter Soup (N\u00edngxi\u00e0 Y\u00e1ngr\u00f2u Fen T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Winter",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lamb",
+            "Soy Sauce",
+            "Dark Soy Sauce",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Dried Chiles",
+            "Five-Spice Powder",
+            "Black Mushrooms",
+            "Canned Tomatoes",
+            "Chinese Black Vinegar",
+            "Mushroom Stock",
+            "Mung Bean Powder"
+        ]
+    },
+    {
+        "Recipe": "Northwestern Roasted Fish (Xinji\u0101ng Kaoy\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Fish",
+            "Cumin Seeds",
+            "Red Jalape\u00f1o Chiles"
+        ]
+    },
+    {
+        "Recipe": "Kung Fu Fish (G\u014dngf\u016b D\u00f9n Y\u00fa)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Whole Fish",
+            "Peanut Oil",
+            "Dried Chiles",
+            "Chinese Black Vinegar",
+            "Mushroom Powder",
+            "Rice Wine",
+            "Chicken Stock",
+            "Cilantro"
+        ]
+    },
+    {
+        "Recipe": "Sweet And Sour Squid Blossoms (T\u00e1ngc\u00f9 Y\u00f3uy\u00fajuan)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Squid",
+            "Dried Thai Chiles",
+            "Fresh Ginger",
+            "Green Onions",
+            "Garlic",
+            "Chinese Black Vinegar",
+            "Light Soy Sauce",
+            "Peanut Oil",
+            "Slivered Almonds"
+        ]
+    },
+    {
+        "Recipe": "Steamed Chicken Southern Gansu Style (Longn\u00e1n Qingzh\u0113ng J\u012b)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Wood Ear Fungus",
+            "Magnolia Petals",
+            "Chicken Wings",
+            "Green Onions",
+            "Fresh Ginger",
+            "Sichuan Peppercorns",
+            "Spinach",
+            "Cilantro",
+            "Rice Wine",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Chicken With Walnuts And Lotus Root (Ji\u00e0ngb\u00e0o T\u00e1or\u00e9n J\u012bd\u012bng)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Meat",
+            "Rice Wine",
+            "Egg Whites",
+            "Walnuts",
+            "Lotus Root",
+            "Rice Vinegar",
+            "Dried Thai Chiles",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Toasted Sesame Oil",
+            "Sweet Wheat Paste"
+        ]
+    },
+    {
+        "Recipe": "Xinjiang'S Big Plate Of Chicken (X\u012bni\u0101ng D\u00e0p\u00e1n J\u012b)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Meat",
+            "Rice Wine",
+            "Soy Sauce",
+            "Potatoes",
+            "Green Peppers",
+            "Dried Thai Chiles",
+            "Peanut Oil",
+            "Sichuan Peppercorns",
+            "Green Onions",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Hot And Sour Pork (Su\u0101nl\u00e0 Liji)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Dried Thai Chiles",
+            "Pork Loin",
+            "Toasted Sesame Oil",
+            "Soy Sauce",
+            "Fresh Ginger",
+            "Sichuan Peppercorns",
+            "Garlic",
+            "Green Onions",
+            "Chinese Black Vinegar",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Osmanthus Blossom [Moo Shu] Pork (M\u00f9x\u012b R\u00f2u)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Toasted Sesame Oil",
+            "Soy Sauce",
+            "Pork Tenderloin",
+            "Dried Bamboo Shoots",
+            "Dried Wood Ear Mushrooms",
+            "Dried Daylily Flowers",
+            "Green Onions",
+            "Rice Wine",
+            "Chinese Pancakes",
+            "Sweet Wheat Paste"
+        ]
+    },
+    {
+        "Recipe": "Buddha'S Hand Rolls (T\u00e1ngc\u00f9 F\u00f3shou Juan)",
+        "Categories": [
+            "Egg Dishes",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Green Onions",
+            "Fresh Ginger",
+            "Rice Wine",
+            "Ground Pork",
+            "Eggs",
+            "Peanut Oil",
+            "Rice Vinegar",
+            "Chinese Black Vinegar",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Silk Road Fajitas (B\u00e1obing Ji\u0101n N\u00edur\u00f2u)",
+        "Categories": [
+            "Sandwiches & Burgers",
+            "Main Course",
+            "Mexican",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Beef",
+            "Rice Wine",
+            "Ground Cumin",
+            "Dried Chiles",
+            "Peanut Oil",
+            "Chinese Pancakes",
+            "Fresh Ginger",
+            "Red Peppers",
+            "Green Onions",
+            "Cilantro"
+        ]
+    },
+    {
+        "Recipe": "Tibetan Meatballs In A Yogurt Sauce (Shabril)",
+        "Categories": [
+            "Sauces, General",
+            "Main Course",
+            "Chinese",
+            "Tibetan"
+        ],
+        "Ingredients": [
+            "Ground Lamb",
+            "Fenugreek Seeds",
+            "Peanut Oil",
+            "Yellow Onions",
+            "Turmeric",
+            "Garlic",
+            "Fresh Ginger",
+            "Black Mushrooms",
+            "Radishes",
+            "Soy Sauce",
+            "Yogurt",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Xinjiang Style Lamb Kebabs (Xinji\u0101ng Y\u00e1ngr\u00f2u Chu\u00e0n)",
+        "Categories": [
+            "Grills & Bbq",
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lamb Shoulder",
+            "Garlic",
+            "Ground Cumin",
+            "Dried Chiles"
+        ]
+    },
+    {
+        "Recipe": "Lamb With Wolfberry Buds And Berries (Y\u00e1ngr\u00f2u Gouqiy\u00e1)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lamb",
+            "Wolfberries",
+            "Sichuan Peppercorns",
+            "Fresh Ginger",
+            "Watercress",
+            "Egg Whites",
+            "Peanut Oil",
+            "Green Onions"
+        ]
+    },
+    {
+        "Recipe": "Lily Bulbs And Wolfberries (Baih\u00e9 Chao Couqi)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Wolfberries",
+            "Lily Bulbs",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Golden Edged Cabbage (Jinbi\u0101n B\u00e1ic\u00e0i)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Napa Cabbage",
+            "Dried Thai Chiles",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Chinese Black Vinegar",
+            "Soy Sauce",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Roasted Sweet Potatoes (Kao Hongshu)",
+        "Categories": [
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Sweet Potatoes"
+        ]
+    },
+    {
+        "Recipe": "Stir Fried Yellow Chives And Eggs (D\u00e0n Chao Jiuhu\u00e1ng)",
+        "Categories": [
+            "Stir-Fries",
+            "Egg Dishes",
+            "Side Dish",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Yellow Chives",
+            "Peanut Oil",
+            "Eggs"
+        ]
+    },
+    {
+        "Recipe": "Tomatoes And Eggs (X\u012bh\u00f3ngsh\u00ec Chao Jizi)",
+        "Categories": [
+            "Egg Dishes",
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Tomatoes",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Green Onions",
+            "Eggs"
+        ]
+    },
+    {
+        "Recipe": "Curried Potatoes (Shogog Khatsa)",
+        "Categories": [
+            "Stir-Fries",
+            "Side Dish",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Potatoes",
+            "Yellow Onions",
+            "Garlic",
+            "Tomatoes",
+            "Peanut Oil",
+            "Fresh Ginger",
+            "Dried Thai Chiles",
+            "Fenugreek Seeds",
+            "Paprika",
+            "Turmeric",
+            "Ground Cumin"
+        ]
+    },
+    {
+        "Recipe": "Spicy Biangbiang Noodles (Y\u00f3up\u014d L\u00e0zi Bi\u00e1ngbi\u00e1ngmi\u00e0n)",
+        "Categories": [
+            "Stir-Fries",
+            "Main Course",
+            "Snacks",
+            "Cooking For 1 Or 2",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Peanut Oil",
+            "Spinach",
+            "Dried Chiles",
+            "Toasted Sesame Seeds",
+            "Green Onions",
+            "Chinese Black Vinegar",
+            "Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Shaved Noodles With Meat Sauce (R\u00f2uluzh\u012b D\u0101oxi\u0101omi\u00e0n)",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Peanut Oil",
+            "Carrots",
+            "Yellow Onions",
+            "Whole Star Anise",
+            "Bay Leaves",
+            "Cinnamon Sticks",
+            "Sichuan Peppercorns",
+            "Fennel Seeds",
+            "Sichuan Hot Bean Sauce",
+            "Ground Pork",
+            "Green Onions",
+            "Fresh Ginger",
+            "Garlic",
+            "Oyster Sauce",
+            "Soy Sauce",
+            "Chinese Black Vinegar",
+            "Cilantro"
+        ]
+    },
+    {
+        "Recipe": "Grilled Layered Lamb Pastries (Khunushuur)",
+        "Categories": [
+            "Pies, Tarts & Pastries",
+            "Grills & Bbq",
+            "Main Course",
+            "Snacks",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Ground Lamb",
+            "Fresh Ginger",
+            "Green Onions",
+            "Soy Sauce",
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Coiled Bread (D\u00e0bing)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Green Onions",
+            "Toasted Sesame Oil",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Grilled Sesame Breads With Green Onions (Zh\u012bm\u00e1 D\u00e0bing)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Grills & Bbq",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Active Dry Yeast",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Peanut Oil",
+            "Toasted Sesame Oil",
+            "Green Onions",
+            "Sesame Seeds"
+        ]
+    },
+    {
+        "Recipe": "Baked Round Uyghur Bread (N\u00e1ngbing)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Uighur"
+        ],
+        "Ingredients": [
+            "Active Dry Yeast",
+            "Peanut Oil",
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Momo And Buuz",
+        "Categories": [
+            "Main Course",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Ground Lamb",
+            "Fresh Ginger",
+            "Green Onions",
+            "Celery",
+            "Cilantro",
+            "Peanut Oil",
+            "Black Mushrooms",
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Cr\u00eapes And Chili Potatoes (Ji\u0101nbing Juan Tud\u00f2usi)",
+        "Categories": [
+            "Pancakes, Waffles & Cr\u00eapes",
+            "Main Course",
+            "Cooking For 1 Or 2",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Potatoes",
+            "Green Onions",
+            "Peanut Oil",
+            "Dried Chiles",
+            "Soy Sauce",
+            "Toasted Sesame Oil",
+            "Dried Thai Chiles",
+            "Garlic",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Oat Honeycomb Rolls (Y\u00f3umi\u00e0ntu\u012bw\u014dw\u014d)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Oat Groats"
+        ]
+    },
+    {
+        "Recipe": "Uyghur Pilaf (Polo Or Zhu\u0101fan)",
+        "Categories": [
+            "Rice Dishes",
+            "Main Course",
+            "Uighur"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Yellow Onions",
+            "Lamb Shoulder",
+            "Long Grain Rice",
+            "Golden Raisins",
+            "Carrots"
+        ]
+    },
+    {
+        "Recipe": "Fried Cookies (Boortsog)",
+        "Categories": [
+            "Cookies, Biscuits & Crackers",
+            "Afternoon Tea",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Butter",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Rose Scented Lotus Patties (Shuijing Li\u00e1nc\u00e0i Bing)",
+        "Categories": [
+            "Dessert",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Lotus Root",
+            "Walnuts",
+            "Wolfberries",
+            "Rose Petal Jam",
+            "Peanut Oil",
+            "Honey"
+        ]
+    },
+    {
+        "Recipe": "Sweet Pear Soup With Silver Ears (Y\u00edner Ti\u00e1nl\u00ed T\u0101ng)",
+        "Categories": [
+            "Soups",
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Rock Sugar",
+            "Fresh Ginger",
+            "Wolfberries",
+            "Osmanthus Syrup",
+            "Chinese Pears",
+            "Silver Tree Ear Fungus Mushrooms"
+        ]
+    },
+    {
+        "Recipe": "Stuffed Muskmelon (Ni\u00e0ng Zu\u00ecgu\u0101)",
+        "Categories": [
+            "Dessert",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Lotus Seeds",
+            "Sticky Rice",
+            "Black Tapioca Pearls",
+            "Rock Sugar",
+            "Osmanthus Syrup",
+            "Wolfberries",
+            "Raisins",
+            "Walnuts",
+            "Toasted Sesame Seeds",
+            "Persian Melons"
+        ]
+    },
+    {
+        "Recipe": "Butter Tea (Boeja And Suutei Tsai)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Fermented Tea Leaves",
+            "Salted Butter",
+            "Heavy Cream"
+        ]
+    },
+    {
+        "Recipe": "Eight Treasure Tea (B\u0101baoch\u00e1)",
+        "Categories": [
+            "Beverages / Drinks (No-Alcohol)",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Green Tea",
+            "Dried Red Dates",
+            "Wolfberries",
+            "Apricot Pits",
+            "Dried Longan Fruits",
+            "Walnuts",
+            "Dried Chrysanthemum Flowers",
+            "Raisins",
+            "Rock Sugar"
+        ]
+    },
+    {
+        "Recipe": "Chicken Stock (Ji G\u0101ot\u0101ng)",
+        "Categories": [
+            "Stocks",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Chicken Pieces",
+            "Chicken Carcass",
+            "Rice Wine",
+            "Fresh Ginger",
+            "Green Onions",
+            "Black Peppercorns"
+        ]
+    },
+    {
+        "Recipe": "Meat Stock (R\u00f2u G\u0101ot\u0101ng)",
+        "Categories": [
+            "Stocks",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Meat Bones"
+        ]
+    },
+    {
+        "Recipe": "Mushroom Stock (Xi\u0101ngg\u016b Gaot\u0101ng)",
+        "Categories": [
+            "Stocks",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chinese Dried Black Mushrooms"
+        ]
+    },
+    {
+        "Recipe": "Steamed Rice (Zh\u0113ng B\u00e1if\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "White Rice"
+        ]
+    },
+    {
+        "Recipe": "Stove Top Rice (Shuizhu B\u00e1if\u00e0n)",
+        "Categories": [
+            "Rice Dishes",
+            "Side Dish",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Short-Grain Rice"
+        ]
+    },
+    {
+        "Recipe": "Rice Crumbs (Zh\u0113ngfen)",
+        "Categories": [
+            "Rice Dishes",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "White Rice"
+        ]
+    },
+    {
+        "Recipe": "Sweet Rice Tamales With Bean Paste (D\u00f2ush\u0101 Z\u00f2ng)",
+        "Categories": [
+            "Rice Dishes",
+            "Snacks",
+            "Chinese",
+            "Mexican",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Dried Bamboo Leaves",
+            "Sticky Rice",
+            "Toasted Sesame Oil",
+            "Adzuki Beans",
+            "Walnuts"
+        ]
+    },
+    {
+        "Recipe": "Chinese Flour (Mi\u00e0nfen)",
+        "Categories": [
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Plain Hot Water Dough (T\u00e0ngmi\u00e0n Mi\u00e0ntu\u00e1n)",
+        "Categories": [
+            "Quick / Easy",
+            "Bread & Rolls, Savory",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Plain Cold Water Dough (Lengshui Mi\u00e0ntu\u00e1n)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Quick / Easy",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Whole Egg Dough (Qu\u00e1nd\u00e0n)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Egg Dishes",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Eggs",
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Northern Style Puff Pastry (Beif\u0101ng Y\u00f3us\u016bp\u00ed Mi\u00e0ntu\u00e1n)",
+        "Categories": [
+            "Pies, Tarts & Pastries",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Active Dry Yeast",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Oil",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Southern Style Puff Pastry (N\u00e1nf\u0101ng Y\u00f3us\u016bp\u00ed Mi\u00e0ntu\u00e1n)",
+        "Categories": [
+            "Pies, Tarts & Pastries",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Wheat Wrapppers [Chinese Flour Tortillas] (H\u00e9y\u00e8bing)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Grilled Breads (L\u00e0obing)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Grills & Bbq",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Flower Rolls [Northern Style] (Hu\u0101juan 1)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Toasted Sesame Seeds",
+            "Toasted Sesame Oil",
+            "Sichuan Peppercorns"
+        ]
+    },
+    {
+        "Recipe": "Flower Rolls [Southern Style] (Hu\u0101juan 2)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Green Onions",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Traditional Steamed Bread, Or Traditional Mantou (Chu\u00e1nt\u00f3ng M\u00e1nt\u00f3u)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Active Dry Yeast"
+        ]
+    },
+    {
+        "Recipe": "Fast Steamed Bread, Or Fast Mantou (Jianyi M\u00e1nt\u00f3u)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Quick / Easy",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Active Dry Yeast"
+        ]
+    },
+    {
+        "Recipe": "Fried Sesame Rolls (M\u00e1bing)",
+        "Categories": [
+            "Fried Doughs",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Active Dry Yeast",
+            "Sesame Seeds",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Raised Gluten (Kaof\u016b)",
+        "Categories": [
+            "Main Course",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Active Dry Yeast",
+            "Gluten Flour"
+        ]
+    },
+    {
+        "Recipe": "Red Date Steamed Buns (H\u00f3ngzao M\u00e1nt\u00f3u)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Snacks",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Active Dry Yeast",
+            "All-Purpose Flour",
+            "Pastry Flour",
+            "Dried Red Dates"
+        ]
+    },
+    {
+        "Recipe": "Filled Steamed Buns, Or Baozi (B\u0101ozi)",
+        "Categories": [
+            "Appetizers / Starters",
+            "Snacks",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "All-Purpose Flour",
+            "Active Dry Yeast",
+            "Pastry Flour",
+            "Filling Of Your Choice"
+        ]
+    },
+    {
+        "Recipe": "Lotus Leaf Buns And Guabao (H\u00e9y\u00e8 Yuan And Gu\u0101b\u0101o)",
+        "Categories": [
+            "Bread & Rolls, Savory",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Active Dry Yeast",
+            "Peanut Oil",
+            "All-Purpose Flour",
+            "Pastry Flour"
+        ]
+    },
+    {
+        "Recipe": "Fried Soybeans (Zh\u00e1 Hu\u00e1ngd\u00f2u)",
+        "Categories": [
+            "Snacks",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Dried Soybeans",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Toasted Soybean Flour (Hu\u00e1ngd\u00f2ufen)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Dried Soybeans",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Fried Peanuts (Zh\u00e1 Hu\u0101sh\u0113ngmi)",
+        "Categories": [
+            "Snacks",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Raw Peanuts"
+        ]
+    },
+    {
+        "Recipe": "Toasted Peanuts (Kao Hu\u0101sh\u0113ngmi)",
+        "Categories": [
+            "Snacks",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Raw Peanuts"
+        ]
+    },
+    {
+        "Recipe": "Stewed Peanuts (Beif\u0101nghsi Lu Huash\u0113ng)",
+        "Categories": [
+            "Side Dish",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Raw Peanuts",
+            "Soy Sauce",
+            "Rice Wine",
+            "Whole Star Anise",
+            "Cinnamon Sticks",
+            "Sichuan Peppercorns",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Toasted Sesame Seeds (Kao Zh\u012b\u00e1)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Sesame Seeds"
+        ]
+    },
+    {
+        "Recipe": "Toasted Sesame Paste (M\u00e1ji\u00e0ng)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Toasted Sesame Seeds",
+            "Toasted Sesame Oil"
+        ]
+    },
+    {
+        "Recipe": "Xinjiang Style Yogurt (X\u012bni\u0101ng Su\u0101nnai)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Half And Half Cream",
+            "Bulgarian-Style Yogurt"
+        ]
+    },
+    {
+        "Recipe": "Fermented Rice (Jiuni\u00e1ng)",
+        "Categories": [
+            "Rice Dishes",
+            "Breakfast / Brunch",
+            "Main Course",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Long Grain Rice",
+            "Wine Yeast Ball"
+        ]
+    },
+    {
+        "Recipe": "Red Wine Lees (H\u00f3ngz\u0101)",
+        "Categories": [
+            "Rice Dishes",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Long Grain Rice",
+            "Red Yeast Rice",
+            "Wine Yeast Ball"
+        ]
+    },
+    {
+        "Recipe": "Red Fermented Bean Curd \"Cheese\" (N\u00e1nru)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Extra-Firm Tofu",
+            "Red Wine Lees"
+        ]
+    },
+    {
+        "Recipe": "White Bean Curd \"Cheese\" (D\u00f2ufuru)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Extra-Firm Tofu",
+            "Chile Flakes",
+            "Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Brined [Salted] Eggs (Xi\u00e1nd\u00e0n)",
+        "Categories": [
+            "Egg Dishes",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Sea Salt",
+            "Eggs",
+            "Fresh Ginger",
+            "Whole Star Anise",
+            "Sichuan Peppercorns",
+            "Dried Thai Chiles",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Huagua Pickles (Hu\u0101gu\u0101)",
+        "Categories": [
+            "Chutneys, Pickles & Relishes",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Persian Cucumbers",
+            "Soy Sauce",
+            "Rice Vinegar",
+            "Dried Licorice Root"
+        ]
+    },
+    {
+        "Recipe": "Pickled Red Chili Peppers (P\u00e0o H\u00f3ngl\u00e0ji\u0101o)",
+        "Categories": [
+            "Chutneys, Pickles & Relishes",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Thai Red Chiles",
+            "Whole Star Anise",
+            "Sichuan Peppercorns",
+            "White Liquor"
+        ]
+    },
+    {
+        "Recipe": "Pickled Lotus Root (P\u00e0oji\u0101o Li\u00e1n Ou)",
+        "Categories": [
+            "Chutneys, Pickles & Relishes",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Lotus Root",
+            "Green Onions",
+            "Fresh Ginger",
+            "Thai Red Chiles",
+            "Whole Star Anise",
+            "Sichuan Peppercorns",
+            "White Liquor",
+            "Rice Vinegar"
+        ]
+    },
+    {
+        "Recipe": "Salted Shanghainese Greens (Xuelih\u00f3ng)",
+        "Categories": [
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chinese Mustard Greens ",
+            "Sea Salt"
+        ]
+    },
+    {
+        "Recipe": "Shanghai Mustard Pickles (T\u00e1ngc\u00f9 Ji\u00e8c\u00e0i)",
+        "Categories": [
+            "Chutneys, Pickles & Relishes",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chinese Mustard Greens ",
+            "Rice Vinegar",
+            "Thai Chiles",
+            "Garlic",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Traditional Fermented Sichuan Style Pickles (Chu\u00e1nt\u00f3ng Sichu\u0101n P\u00e0oc\u00e0i)",
+        "Categories": [
+            "Chutneys, Pickles & Relishes",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Sea Salt",
+            "Sichuan Peppercorns",
+            "Whole Star Anise",
+            "Bay Leaves",
+            "White Liquor",
+            "Rock Sugar",
+            "Fresh Ginger",
+            "Garlic",
+            "Red Jalape\u00f1o Chiles",
+            "Cabbage",
+            "Chinese Radishes",
+            "Carrots",
+            "Long Beans",
+            "Kohlrabi"
+        ]
+    },
+    {
+        "Recipe": "Fast Sichuan Style Pickles (Jianyi S\u00ecchu\u0101n P\u00e0oc\u00e0i)",
+        "Categories": [
+            "Chutneys, Pickles & Relishes",
+            "Quick / Easy",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chinese Radishes",
+            "Carrots",
+            "Cabbage",
+            "Rice Vinegar",
+            "Sugar",
+            "Chiles",
+            "Sichuan Peppercorns",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Spicy Pickled Cucumbers (Su\u0101nl\u00e0 Hu\u00e1nggu\u0101)",
+        "Categories": [
+            "Chutneys, Pickles & Relishes",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Persian Cucumbers",
+            "Soy Sauce",
+            "Sichuan Peppercorns",
+            "Fresh Ginger",
+            "Peanut Oil",
+            "Chinese Black Vinegar",
+            "Toasted Sesame Oil",
+            "Chile Paste"
+        ]
+    },
+    {
+        "Recipe": "Sweet Pickled Garlic Cloves (T\u00e1ngsu\u00e0n)",
+        "Categories": [
+            "Chutneys, Pickles & Relishes",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Garlic",
+            "Sea Salt",
+            "Chinese Black Vinegar",
+            "Dark Brown Sugar",
+            "Dark Soy Sauce"
+        ]
+    },
+    {
+        "Recipe": "Green Onion Oil (C\u014dng Y\u00f3u)",
+        "Categories": [
+            "Dressings & Marinades",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Green Onions",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Sichuan Peppercorn Oil (Hu\u00e1ji\u0101 Y\u00f3u)",
+        "Categories": [
+            "Dressings & Marinades",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Sichuan Peppercorns",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Fried Shallots And Shallot Oil (Y\u00f3uc\u014dng Su And H\u00f3ngc\u014dng Y\u00f3u)",
+        "Categories": [
+            "Dressings & Marinades",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Shallots",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Red Chili Oil With Toasty Bits (M\u00e1l\u00e0 H\u00f3ngy\u00f3u)",
+        "Categories": [
+            "Dressings & Marinades",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Peanut Oil",
+            "Toasted Sesame Oil",
+            "Dried Chiles",
+            "Sichuan Peppercorns",
+            "Dried Orange Peel"
+        ]
+    },
+    {
+        "Recipe": "Citrus Chili Oil With Black Beans (J\u00faxi\u0101ng D\u00f2uchi L\u00e0y\u00f3u)",
+        "Categories": [
+            "Dressings & Marinades",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Oranges",
+            "Meyer Lemons",
+            "Garlic",
+            "Fermented Black Beans",
+            "Peanut Oil",
+            "Toasted Sesame Oil",
+            "Fresh Ginger",
+            "Dried Chiles"
+        ]
+    },
+    {
+        "Recipe": "Hunan Style Chili Paste (Xi\u0101ngsh\u00ec L\u00e0ji\u00e0ng)",
+        "Categories": [
+            "Dips, Spreads & Salsas",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Oil",
+            "Dried Korean Chiles",
+            "Fermented Black Beans"
+        ]
+    },
+    {
+        "Recipe": "Guizhou Ciba Chili Paste (C\u00edb\u0101 L\u00e0ji\u0101o)",
+        "Categories": [
+            "Dips, Spreads & Salsas",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Dried Thai Chiles",
+            "Garlic",
+            "Fresh Ginger",
+            "Peanut Oil"
+        ]
+    },
+    {
+        "Recipe": "Guizhou Fermented Hot Sauce (Gu\u00eczhou L\u00e0ji\u0101oji\u00e0ng)",
+        "Categories": [
+            "Sauces, General",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Red Chiles",
+            "Fermented Black Beans",
+            "Garlic",
+            "Sea Salt",
+            "White Liquor"
+        ]
+    },
+    {
+        "Recipe": "Sweet Chili Sauce (Ti\u00e1nl\u00e0ji\u00e0ng)",
+        "Categories": [
+            "Sauces, General",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chile Powder",
+            "Red Jalape\u00f1o Chiles",
+            "Tomato Ketchup",
+            "Rice Vinegar"
+        ]
+    },
+    {
+        "Recipe": "Sweet Soy Sauce (Ti\u00e1nji\u00e0ngy\u00f3u)",
+        "Categories": [
+            "Sauces, General",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Sugar",
+            "Soy Sauce",
+            "Sichuan Peppercorns",
+            "Licorice Root",
+            "Whole Star Anise",
+            "Fresh Ginger"
+        ]
+    },
+    {
+        "Recipe": "Dry Fried Salt And Pepper (H\u00faji\u0101o Y\u00e1n)",
+        "Categories": [
+            "Spice / Herb Blends & Rubs",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Black Peppercorns",
+            "Sea Salt"
+        ]
+    },
+    {
+        "Recipe": "Toasted Sichuan Peppercorn Salt (Hu\u0101ji\u0101o Y\u00e1n)",
+        "Categories": [
+            "Spice / Herb Blends & Rubs",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Sichuan Peppercorns",
+            "Sea Salt"
+        ]
+    },
+    {
+        "Recipe": "Ground Toasted Sichuan Peppercorns (Hu\u0101ji\u0101o F\u00e9n)",
+        "Categories": [
+            "Spice / Herb Blends & Rubs",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Sichuan Peppercorns"
+        ]
+    },
+    {
+        "Recipe": "Five Spice Powder (Wuxi\u0101ngfen)",
+        "Categories": [
+            "Spice / Herb Blends & Rubs",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Cinnamon Sticks",
+            "Fennel Seeds",
+            "Whole Star Anise",
+            "Whole Cloves",
+            "Sand Ginger"
+        ]
+    },
+    {
+        "Recipe": "Red Bean Paste With Chestnuts (D\u00f2ush\u0101 L\u00eczi)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Adzuki Beans",
+            "Chestnuts"
+        ]
+    },
+    {
+        "Recipe": "Date Paste Filling With Toasted Walnuts (H\u00e9t\u00e1o Zaoni)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chinese Red Dates",
+            "Toasted Sesame Oil",
+            "Powdered Sugar",
+            "Rice Vinegar",
+            "Walnuts"
+        ]
+    },
+    {
+        "Recipe": "Coconut Filling (Y\u0113r\u00f3ng)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Sweetened Coconut"
+        ]
+    },
+    {
+        "Recipe": "Fruit And Nut Filling (Wur\u00e9n)",
+        "Categories": [
+            "Cooking Ahead",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Chinese Red Dates",
+            "Pumpkin Seeds",
+            "Dried Cranberries",
+            "Walnuts",
+            "Toasted Sesame Seeds",
+            "Sliced Almonds",
+            "Meiguilu Jiu",
+            "Powdered Sugar",
+            "Rice Vinegar",
+            "Sticky Rice Flour"
+        ]
+    },
+    {
+        "Recipe": "Lotus, Pine Nut, And Salted Yolk Filling (Li\u00e1nr\u00f3ng S\u014dngzi D\u00e0nhu\u00e1ng)",
+        "Categories": [
+            "Egg Dishes",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegetarian"
+        ],
+        "Ingredients": [
+            "Lotus Seeds",
+            "Powdered Sugar",
+            "Rice Vinegar",
+            "Meiguilu Jiu",
+            "Pine Nuts",
+            "Sea Salt",
+            "Eggs",
+            "Fresh Ginger",
+            "Whole Star Anise",
+            "Sichuan Peppercorns",
+            "Dried Thai Chiles",
+            "Shaoxing Rice Wine"
+        ]
+    },
+    {
+        "Recipe": "Caramel Syrup (H\u0113i T\u00e1ngji\u0101ng)",
+        "Categories": [
+            "Sauces For Desserts",
+            "Cooking Ahead",
+            "Chinese",
+            "Vegan"
+        ],
+        "Ingredients": [
+            "Powdered Sugar",
+            "Rice Vinegar"
+        ]
+    },
+    {
+        "Recipe": "Dark Glaze (Sh\u0113ns\u00e8 D\u00e0nshui)",
+        "Categories": [
+            "Sauces For Desserts",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Egg Yolks",
+            "Meiguilu Jiu",
+            "Powdered Sugar",
+            "Rice Vinegar"
+        ]
+    },
+    {
+        "Recipe": "Light Glaze (D\u00e0ns\u00e8 D\u00e0nshui)",
+        "Categories": [
+            "Sauces For Desserts",
+            "Cooking Ahead",
+            "Chinese"
+        ],
+        "Ingredients": [
+            "Egg Yolks",
+            "Powdered Sugar",
+            "Rice Vinegar"
+        ]
+    }
+]

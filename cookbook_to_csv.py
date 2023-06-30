@@ -58,4 +58,4 @@ with open(csv_file, "w", newline="") as file:
     # Write each tuple as a row in the CSV file
     writer.writerows(data)
 
-print(f'Successfully saved data to {csv_file}.')
+print(f'Successfully saved {csv_file[10:-4]}')
