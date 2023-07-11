@@ -1,4 +1,5 @@
 General/American:
+https://www.eatyourbooks.com/library/219311/the-hog-island-book-of
 https://www.eatyourbooks.com/library/188430/where-cooking-begins-uncomplicated-recipes
 https://www.eatyourbooks.com/library/81695/meat-a-kitchen-education
 https://www.eatyourbooks.com/library/16023/more-home-cooking-a-writer
@@ -127,6 +128,7 @@ https://www.eatyourbooks.com/library/12977/my-bombay-kitchen-traditional-and
 https://www.eatyourbooks.com/library/194256/dishoom-from-bombay-with-love
 https://www.eatyourbooks.com/library/177371/the-indian-cookery-course-techniques
 https://www.eatyourbooks.com/library/128712/hidden-kitchens-of-sri-lanka
+https://www.eatyourbooks.com/library/219619/tandoori-home-cooking-over-70
 
 Hispanic:
 https://www.eatyourbooks.com/library/3744/seven-fires-grilling-the-argentine
@@ -141,8 +143,10 @@ https://www.eatyourbooks.com/library/176210/the-complete-mediterranean-cookbook-
 https://www.eatyourbooks.com/library/84511/the-food-of-spain
 https://www.eatyourbooks.com/library/12662/the-essential-cuisines-of-mexico
 https://www.eatyourbooks.com/library/195476/the-mexican-home-kitchen-over
+https://www.eatyourbooks.com/library/219321/asada-the-art-of-mexican
+https://www.eatyourbooks.com/library/220891/the-dominican-kitchen-homestyle-recipes
 
-Middle Eastern:
+Middle Eastern and Greek:
 https://www.eatyourbooks.com/library/165272/nopi-the-cookbook
 https://www.eatyourbooks.com/library/173678/the-middle-eastern-vegetarian-cookbook
 https://www.eatyourbooks.com/library/173406/taste-of-persia-a-cooks
@@ -168,12 +172,17 @@ https://www.eatyourbooks.com/library/168194/sweet-middle-east-classic-recipes
 https://www.eatyourbooks.com/library/119928/the-new-persian-kitchen
 https://www.eatyourbooks.com/library/166304/zahav-a-world-of-israeli
 https://www.eatyourbooks.com/library/190915/sababa-fresh-sunny-flavors-from
+https://www.eatyourbooks.com/library/221226/sofreh-a-contemporary-approach-to
+https://www.eatyourbooks.com/library/231552/yiayia-time-perfected-recipes-from
+https://www.eatyourbooks.com/library/221334/a-middle-eastern-pantry-essential
 
 Thai:
 https://www.eatyourbooks.com/library/3595/thai-food
 https://www.eatyourbooks.com/library/73249/thai-street-food
 https://www.eatyourbooks.com/library/121235/pok-pok-food-and-stories
 https://www.eatyourbooks.com/library/156675/nongs-thai-kitchen-84-classic
+https://www.eatyourbooks.com/library/137489/thailand-the-cookbook
+https://www.eatyourbooks.com/library/179028/bangkok-recipes-and-stories-from
 
 Indonesian:
 https://www.eatyourbooks.com/library/195237/coconut--sambal-recipes-from
@@ -195,6 +204,7 @@ https://www.eatyourbooks.com/library/191376/pasta-grannies-the-secrets-of
 https://www.eatyourbooks.com/library/92476/rustic-italian-food
 https://www.eatyourbooks.com/library/191481/american-sfoglino-a-master-class
 https://www.eatyourbooks.com/library/14188/essentials-of-classic-italian-cooking
+https://www.eatyourbooks.com/library/90932/the-silver-spoon-new-edition
 
 African:
 https://www.eatyourbooks.com/library/191833/ethiopia-recipes-and-traditions-from
@@ -219,6 +229,8 @@ https://www.eatyourbooks.com/library/177352/bravetart-iconic-american-desserts
 https://www.eatyourbooks.com/library/173225/patisserie-master-the-art-of
 https://www.eatyourbooks.com/library/182542/french-patisserie-master-recipes-and
 https://www.eatyourbooks.com/library/90964/momofuku-milk-bar
+https://www.eatyourbooks.com/library/216486/more-than-cake-100-baking
+https://www.eatyourbooks.com/library/191866/the-cookie-collection-artisan-baking
 
 Bread:
 https://www.eatyourbooks.com/library/3505/peter-reinharts-whole-grain-breads
